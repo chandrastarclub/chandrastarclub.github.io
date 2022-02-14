@@ -14,22 +14,7 @@ redirect_from:
 ##                                    Chandra-STAR-Club @ CUHP             
 
 
-<!---
-**MOTIVATION** :   In the 21st century, as the global scientific pursuits provide an enormous amount of new revelations about the natural world, the gap between the general  public and the scientific community widens more than ever. The goal of public outreach efforts, in general, is to spread awareness about established scientific knowledge among the public, with an underlying hope to inculcate a spirit of rationalism in the populace.
-
-
-**EXISTING PERSPECTIVE:**   The citizen programs in the field of Science are notable especially in Astronomy as  amateur Astronomers, although the geographic footprints of these programs are much limited. Notable long-standing citizen driven organizations like Jyotirvidya Parisanstha in Pune and Skywatchers’ Association in Kolkata have been gathering, training and guiding amateur astronomers to make a serious contribution to the field. But most of the data collection ventures that the Indian  amateur astronomers are involved in international programs. But it is time for Indian practising scientists and faculties in Higher Education Institute to come up with more indigenous programs in different fields of science that have the ability to engage the public in large numbers.
-
-Even in the conventional public outreach dissemination programs, the scientific content is limited to well-established scientific notions, largely representing the international scientific community, while the practising Indian scientific communities are largely underrepresented in such deliberations. Now efforts are being made to organize public symposia where practicing Indian scientists present their own research in an accessible way to the citizens, for example, the ‘Science at the Sabha’ program organized by the Institute of Mathematical Sciences in Chennai. Some individual efforts are being taken toward more concerted programs undertaken by practising scientists/educator from all domains of natural sciences. More such efforts will lead to a better connection between the practising Indian scientists/researcher and the general public, leading to the development of trust and support for Indian science in general, apart from the positive impact on the ‘awareness’ aspects.
-
-` `Another recent development is the *Atal Tinkering Laboratory program* where laboratory
-
-equipment is provided to schools under a Government-funded national program, to encourage students in technological innovations. But while designing and running such a lab under this program, one must also lay emphasis on introducing the students to rational thinking and scientific methodologies that can derive the established scientific principles, apart from the mandated intention of enthusing them into more utilitarian technological innovations, where creating a setup like science club/outreach center as a nodal point by higher education research institute, like central University of Himachal Pradesh,  will play a crucial role.
-
-
-**CUHP KEY ROLE:**
--->
-Taking science centers to the remotest places of the nation is rare, but a large number of district-level science centers have been established all around the country. But we have witnessed great personal efforts towards that end. Most notable among them are the phenomenal efforts put into the ‘Toys from Trash’ project led by Arvind Gupta and his team at IUCAA science centre, who introduce children to a world of toys made from trivial trash based on some simple scientific principles, something that needs to be widely propagated and replicated all around the country. Rural centers in the underprivileged remote areas of the country, incorporating location-specific environmental and architectural elements, equipped with the simplest of tools to allow local school-going children to run experiments based on their textbook knowledge, will be a great way to induce scientific temper among the future citizens and engage more people with the process of scientific progress in general.
+**AIM:** Taking science centers to the remotest places of the nation is rare, but a large number of district-level science centers have been established all around the country. But we have witnessed great personal efforts towards that end. Most notable among them are the phenomenal efforts put into the ‘Toys from Trash’ project led by Arvind Gupta and his team at IUCAA science centre, who introduce children to a world of toys made from trivial trash based on some simple scientific principles, something that needs to be widely propagated and replicated all around the country. Rural centers in the underprivileged remote areas of the country, incorporating location-specific environmental and architectural elements, equipped with the simplest of tools to allow local school-going children to run experiments based on their textbook knowledge, will be a great way to induce scientific temper among the future citizens and engage more people with the process of scientific progress in general.
 
 CUHP  believes that the benefits of high-quality science education and infrastructure should not remain restricted to members of the CUHP only. As an attempt to spread the excitement of science and to make the expertise and facilities at CUHP available to the science and education community of the Himachal Pradesh, we would like to engage in several "Science, Technology, and Astronomy  Realisation (STAR)" outreach activities. These encompass skywatching programs, social outreach in the local community, capacity building of teachers, making and popularizing simple science toys, and effectively communicating scientific research through various media.
 
@@ -45,7 +30,21 @@ The *Chandra-STAR-Club*   will be a nodal center to communicate and facilitate b
 1. Workshops/schools for teachers and/or students.
 1. Online aggregation of science activities, audio/video resources, and various science awareness programs.
 
-<!---
+
+## About US:
+   The Chandra STAR club is being run **"by the student for the student"** and all the faculties and students of department of Physics and Astronomical science actively volunteer for this activities. In year, our volunteer for the main key responsibilities are:
+
+### Core members:
+  1. Mr. Ritish Kumar (Convener, ritishshield@gmail.com mobile: 85806 68173)
+  1. Mr. Lalit Kumar (Co-convener, lalitbijj409@gmail.com  mobile: 70189 68448)
+  1. more to be added
+
+### Faculty mentor:
+   1. [Prof. Hum Chand](https://humchand.in/) (HoD DPAS, humchand@hpcu.ac.in mobile: 6396937743)
+
+### Contact us:  starclub@hpcu.ac.in
+
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
