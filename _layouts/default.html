@@ -1,59 +1,31 @@
 ---
 layout: compress
-# Default layout
 ---
 
-<!DOCTYPE html>
+{% include base_path %}
 
-{% include lang.html %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-{% capture prefer_mode %}
-  {% if site.theme_mode %}
-    data-mode="{{ site.theme_mode }}"
-  {% endif %}
-{% endcapture %}
+  <body>
 
-<html lang="{{ site.lang }}"{{ prefer_mode }}>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-  {% include head.html %}
+    {{ content }}
 
-  {% unless site.theme_mode %}
-    {% include mode-toggle.html %}
-  {% endunless %}
-
-  <body data-spy="scroll" data-target="#toc" data-topbar-visible="true">
-
-    {% include sidebar.html %}
-
-    {% include topbar.html %}
-
-    <div id="main-wrapper">
-      <div id="main">
-
-        {{ content }}
-
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
         {% include footer.html %}
+      </footer>
+    </div>
 
-      </div>
-
-      {% include search-results.html %}
-
-    </div> <!-- #main-wrapper -->
-
-    {% if page.mermaid %}
-      {% include mermaid.html %}
-    {% endif %}
-
-    <div id="mask"></div>
-
-    <a id="back-to-top" href="#" aria-label="back-to-top" class="btn btn-lg btn-box-shadow" role="button">
-      <i class="fas fa-angle-up"></i>
-    </a>
-
-    {% include search-loader.html %}
-
-    {% include js-selector.html %}
+    {% include scripts.html %}
 
   </body>
-
 </html>
