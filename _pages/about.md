@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-## Department of Physics and Astronomical Science (DPAS)  of Central University of Himachal Pradesh (CUHP)
+## [Department of Physics and Astronomical Science (DPAS)](http://cuhimachal.ac.in/ViewShortProfile.aspx?deptid=4&divid=1)  of [Central University of Himachal Pradesh (CUHP)](http://www.cuhimachal.ac.in/)
 ####                       (named after renowned nobel laureate, Prof. S. Chandrasekhar )
 ##                              (चंद्रा विज्ञान, प्रौद्योगिकी और खगोल विज्ञान बोध क्लब)  
 ##                                    Chandra-STAR-Club @ CUHP             
 
 
-**AIM:** Taking science centers to the remotest places of the nation is rare, but a large number of district-level science centers have been established all around the country. But we have witnessed great personal efforts towards that end. Most notable among them are the phenomenal efforts put into the ‘Toys from Trash’ project led by Arvind Gupta and his team at IUCAA science centre, who introduce children to a world of toys made from trivial trash based on some simple scientific principles, something that needs to be widely propagated and replicated all around the country. Rural centers in the underprivileged remote areas of the country, incorporating location-specific environmental and architectural elements, equipped with the simplest of tools to allow local school-going children to run experiments based on their textbook knowledge, will be a great way to induce scientific temper among the future citizens and engage more people with the process of scientific progress in general.
+**AIM:** Taking science centers to the remotest places of the nation is rare, but a large number of district-level science centers have been established all around the country. But we have witnessed great personal efforts towards that end. Rural centers in the underprivileged remote areas of the country, incorporating location-specific environmental and architectural elements, equipped with the simplest of tools to allow local school-going children to run experiments based on their textbook knowledge, will be a great way to induce scientific temper among the future citizens and engage more people with the process of scientific progress in general.
 
 CUHP  believes that the benefits of high-quality science education and infrastructure should not remain restricted to members of the CUHP only. As an attempt to spread the excitement of science and to make the expertise and facilities at CUHP available to the science and education community of the Himachal Pradesh, we would like to engage in several "Science, Technology, and Astronomy  Realisation (STAR)" outreach activities. These encompass skywatching programs, social outreach in the local community, capacity building of teachers, making and popularizing simple science toys, and effectively communicating scientific research through various media.
 
 In this context the Department of Physics and Astronomical Science of CIHP  proposed to set up a   Chandra “Science, Technology and Astronomy  Realisation (STAR)” Club **[Chandra- STAR-Club]** at  CUHP, named after renowned nobel laureate and the father of astrophysics, Prof. S. Chandrasekhar.
 
-The *Chandra-STAR-Club*   will be a nodal center to communicate and facilitate by optimizing the  scientific human-manpower and resources in Himachal Pradesh, with  main focus on the following aspects:
 
 1. SkyWatching program for school students and general public
 1. Public lecture about various astronomical and other scientific events
@@ -28,7 +27,7 @@ The *Chandra-STAR-Club*   will be a nodal center to communicate and facilitate b
    - Schools can request for expert talk and Chandra-STAR-Club can coordinate to put in touch the field expert beside assisting in logistics if possible.
    - Chandra START Club also organizes pedagogical lecture series by targeting the specific students' level and regions to enhance Science Technology Engineering and Mathematical (STEM) Education in the region.
 1. Workshops/schools for teachers and/or students.
-1. Online aggregation of science activities, audio/video resources, and various science awareness programs.
+1. Online aggregation of science activities, audio/video resources, and various science awareness programs. For this department has also setup a dedicated [youTube channel](https://www.youtube.com/channel/UC8c4ytS_7PiUd8mCi_zg8jg).
 
 
 ## About US:
@@ -43,6 +42,9 @@ The *Chandra-STAR-Club*   will be a nodal center to communicate and facilitate b
    1. [Prof. Hum Chand](https://humchand.in/) (HoD DPAS, humchand@hpcu.ac.in mobile: 6396937743)
 
 ### Contact us:  starclub@hpcu.ac.in
+   For talks and events video and slides you may wish to visit our department you tube channel [here](https://www.youtube.com/channel/UC8c4ytS_7PiUd8mCi_zg8jg) .
+
+   The page is under progress and will be updated soon.. stay tuned!!
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
