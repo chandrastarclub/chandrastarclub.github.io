@@ -36,7 +36,10 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
 ### Core members:
   1. Mr. Ritish Kumar (Convener, ritishshield@gmail.com mobile: 85806 68173)
   1. Mr. Lalit Kumar (Co-convener, lalitbijj409@gmail.com  mobile: 70189 68448)
-  1. more to be added
+  1. Mr. Rahul Singh (Core Member, rahulinconcible@gmail.com  mobile: 9882858281)
+  1. Mr. Labh Singh (Core Member, sainilabh5@gmail.com mobile: 7018163432)
+  1. Ms. Simran Arora (Core Member, 009simranarora@gmail.com)
+  1.  more tobe added 
 
 ### Faculty mentor:
    1. [Prof. Hum Chand](https://humchand.in/) (HoD DPAS, humchand@hpcu.ac.in mobile: 6396937743)
