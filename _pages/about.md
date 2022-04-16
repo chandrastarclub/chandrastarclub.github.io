@@ -42,7 +42,7 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
   1.  more tobe added
 
 ### Faculty mentor:
-   1. [Prof. Hum Chand](https://humchand.in/) (HoD DPAS, humchand@hpcu.ac.in mobile: 6396937743)
+   1. [Prof. Hum Chand](https://humchand.in/) (humchand@hpcu.ac.in mobile: 6396937743)
 
 ### Contact us:  starclub@hpcu.ac.in
    For talks and events video and slides you may wish to visit our department you tube channel [here](https://www.youtube.com/channel/UC8c4ytS_7PiUd8mCi_zg8jg) .
