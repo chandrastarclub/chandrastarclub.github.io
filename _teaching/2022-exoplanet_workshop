@@ -2,7 +2,7 @@
 title: "Exoplanet Workshop"
 collection: Workshop
 type: "Workshop"
-permalink: /teaching/2022-exoplanet_workshop.md
+permalink: /teaching/2022-exoplanet_workshop
 venue: "CUHP, DPAS, Shahpur"
 date: 2022-06-04
 location: "Shahpur, India"
