@@ -15,30 +15,37 @@ location: "Shahpur, India"
 ### Programm Schedule:  July 4th-15th, 2022
 
 ## List of Participants
-Ajay Kumar,
-Akshay Kumar, 
-Aman Kumar, 
-Amit Jaswal, 
-Anshika Ohri,  
-Anshul Kumar Sharma, 
-Anshul Choudhary,   
-Anuraag Rathore, 
-Aryaa Pathak,
-Disha, 
-Diya Sharma, 
-Gargi rathore, 
-Harsh Singh, 
-Jaideep, 
-Kanika Mankotia,
-Kanika Khushi Sharma,
-Manish Pathak, 
-Nalin Dhiman, 
-Praveen, 
-Priya Sharma, 
-Sachin Thakur,
-Sachin Dharwal, 
-Sakshi Mehra, 
-Sahil singh,
-Tanvi Sharma, 
-Urvashi Sharma, 
-Yogesh
+| S.NO  | Name of Participants | Program of Study |
+| ------------- | ------------- | --------------- |  
+| 1  | Ajay Kumar            |      M.Sc           |
+| 2  | Akshay Kumar          |      M.Sc           |
+| 3  | Aman Kumar            |      M.Sc           |
+| 3  | Amit Jaswal           |      B.Sc           |
+| 4  | Anshika Ohri          |      B.Sc       |
+| 5  | Anshul Kumar Sharma   |      B.Sc      |
+| 6  | Anshul Choudhary      |      B.Sc           |
+| 7  | Anuraag Rathore       |      M.Sc           |
+| 8  | Aryaa Pathak          |      M.Sc           |
+| 9  | Disha                 |      B.Sc           |
+| 10 | Diya Sharma           |      B.Sc           |
+| 11 | Gargi Rathore         |      B.Sc           |
+| 12 | Harsh Singh           |     M.Sc            |
+| 13 | Jaideep               |     M.Sc            |
+| 14 | Kanika Mankotia       |     B.Sc            |
+| 15 | Kanika                |     B.Sc            |
+| 16 | Khushi Sharma         |     B.Sc            |
+| 17 | Manish Pathak         |     M.Sc            |
+| 18 | Nalin Dhiman          |     M.Sc            |
+| 19 | Praveen               |     M.Sc            |
+| 20 | Priya Sharma          |     M.Sc            |
+| 21 | Sachin Thakur         |     M.Sc            |
+| 22 | Sachin Dharwal        |     B.Sc            |
+| 23 | Sakshi Mehra          |     M.Sc            |
+| 24 | Sahil Singh           |     M.Sc            |
+| 25 | Tanvi Sharma          |     B.Sc            |
+| 26 | Urvarshi              |     M.Sc            |
+| 27 | Yogesh                |     M.Sc            |
+| 28 |          |                 |
+| 29 |          |                 |
+| 29 |          |                 |
+| 30 |          |                 |
