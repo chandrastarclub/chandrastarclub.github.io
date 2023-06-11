@@ -1,11 +1,11 @@
 ---
-title: "Exoplanet Workshop on Extra-solar Planets and the search for the Habitable Worlds"
-collection: Workshop
-type: "Workshop"
-permalink: /teaching/2022-exoplanet_workshop
-venue: "CUHP, DPAS, Shahpur"
-date: 2022-06-04
-location: "Shahpur, India"
+Title: "Exoplanet Workshop on Extra-solar Planets and the search for the Habitable Worlds"
+Collection: Workshop
+Type: "Workshop"
+Permalink: /teaching/2022-exoplanet_workshop
+Venue: "CUHP, DPAS, Shahpur"
+Date: 2022-06-04
+Location: "Shahpur, India"
 ---
 
 [Speaker: Prof. Anand Narayan from Indian Institute of Space Science and Technology](https://www.iist.ac.in/ess/anand)
@@ -16,17 +16,17 @@ location: "Shahpur, India"
 
 ## List of Participants
 | S.NO  | Name of Participants | Program of Study |
-|:------------- | ------------- | --------------- |  
+|:------------- | :-------------: | :---------------: |  
 | 1  | Ajay Kumar            |      M.Sc           |
 | 2  | Akshay Kumar          |      M.Sc           |
 | 3  | Aman Kumar            |      M.Sc           |
 | 4  | Amit Jaswal           |      B.Sc           |
-| 5  | Anshika Ohri          |      B.Sc          M|
-| 6  | Anshul Kumar Sharma   |      B.Sc      |
+| 5  | Anshika Ohri          |      B.Sc           |
+| 6  | Anshul Kumar Sharma   |      B.Sc           |
 | 7  | Anshul Choudhary      |      B.Sc           |
 | 8  | Anuraag Rathore       |      M.Sc           |
 | 9  | Aryaa Pathak          |      M.Sc           |
-| 10  | Disha                 |      B.Sc           |
+| 10 | Disha                 |      B.Sc           |
 | 11 | Diya Sharma           |      B.Sc           |
 | 12 | Gargi Rathore         |      B.Sc           |
 | 13 | Harsh Singh           |     M.Sc            |
