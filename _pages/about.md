@@ -35,13 +35,19 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
 
 ### Core members:
   1. Mr. Ritish Kumar (Convener, ritishshield@gmail.com mobile: 85806 68173)
-  1. Mr. Lalit Kumar (Co-convener, lalitbijj409@gmail.com  mobile: 70189 68448)
+  1. Mr. Himanshu Sharma (Co-Convener,himanshu4gya@gmail.com mobile: 8005542176)
+  1. Mr. Dharmender(Coordinator, dharmender98thakur@gmail.com Mobile: 8988525968)
+  1. Mr. Madhu Sudan(Coordinator,madhu92265.sudan@gmail.com Mobile:7717329692)
+  1. Mr. Paryag Sharma(Coordinator,panditparyag@gmail.com Mobile: 7018023532)
+  1. Mr. Lalit Kumar (Coodinator, lalitbijj409@gmail.com  mobile: 70189 68448)
   1. Mr. Rahul Singh (Coodinator, rahulinconcible@gmail.com  mobile: 9882858281)
-  1. Mr. Labh Singh (Coordinator, sainilabh5@gmail.com mobile: 7018163432)
-  1. Ms. Simran Arora (Coordinator, 009simranarora@gmail.com)
-  1.  Dharmender(Member, 8988525968)
-  1. Himanshu Sharma (Member, 8005542176)
-  1. Madhu Sudan (Member, 7717329692)
+  1. Mr. Labh Singh (Member, sainilabh5@gmail.com mobile: 7018163432)
+  1. Mr. Ritesh KUmar (Member,ritskapil@gmail.com )
+  1. Ms. Simran Arora (Member, 009simranarora@gmail.com)
+  1. Ms. Priya Sharma (Member, Sharmabrosis3@gmail.com)
+  1. Mr. Manoj Kumar (Member,akanime4u@gmail.com )
+  1. Mr. Sachin Kumar(Member,sachinthakur9t9@gmail.com )
+  1. Mr. Harsh (Member,astrophysicist1804@gmail.com )
 
 ### Faculty mentor:
    1. [Prof. Hum Chand](https://humchand.in/) (humchand@hpcu.ac.in mobile: 6396937743)
