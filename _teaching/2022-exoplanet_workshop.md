@@ -16,7 +16,6 @@ Location: "Shahpur, India"
 
 ## List of Participants
 | S.NO  | Name of Participants  | Program of Study|
-|-------|-----------------------|---------------  |
 | 1     | Ajay Kumar            |     M.Sc        |  
 | 2     | Akshay Kumar          |     M.Sc        |
 | 3     | Aman Kumar            |     M.Sc        |  
