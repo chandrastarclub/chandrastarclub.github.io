@@ -34,7 +34,7 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
    The Chandra STAR club is being run **"by the student for the student"** and all the faculties and students of department of Physics and Astronomical science actively volunteer for this activities. In year, our volunteer for the main key responsibilities are:
 
 ### Core members:
-  1. Mr. Ritish Kumar (Convener, ritishshield@gmail.com mobile: 85806 68173)
+  1. [Mr. Ritish Kumar](https://www.researchgate.net/profile/Ritish-Kumar-2) (Convener, ritishshield@gmail.com mobile: 85806 68173)
   1. Mr. Himanshu Sharma (Co-Convener,himanshu4gya@gmail.com mobile: 8005542176)
   1. Mr. Dharmender(Coordinator, dharmender98thakur@gmail.com Mobile: 8988525968)
   1. Mr. Madhu Sudan(Coordinator,madhu92265.sudan@gmail.com Mobile:7717329692)
