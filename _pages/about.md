@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## [Department of Physics and Astronomical Science (DPAS)](http://cuhimachal.ac.in/ViewShortProfile.aspx?deptid=4&divid=1)  of [Central University of Himachal Pradesh (CUHP)](http://www.cuhimachal.ac.in/)
-####                       (named after renowned nobel laureate, Prof. S. Chandrasekhar )
+####                       (Named after renowned Nobel laureate, Prof. S. Chandrasekhar )
 ##                              (चंद्रा विज्ञान, प्रौद्योगिकी और खगोल विज्ञान बोध क्लब)  
 ##                                    Chandra-STAR-Club @ CUHP             
 
