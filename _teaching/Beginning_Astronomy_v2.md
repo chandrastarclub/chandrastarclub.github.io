@@ -20,7 +20,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
  The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. Routes can be checked in map: [CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing) \\
  The meeting begins at 9:00AM on July 6, 2023 and ends on July 08, 2023.
 
-**Organisers :**
+**Coordinators :**
 
 1. Prof. Hum Chand (CUHP)
 2. Prof Ranjeev Misra (IUCAA)
@@ -31,10 +31,17 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 **Members of Local Organising Committee:**
 
-1. Mr. Ritish Kumar (ritishshield@gmail.com mobile: 85806 68173)
-1. Mr. Himanshu Sharma (himanshu4gya@gmail.com mobile: 8005542176)
+1. Mr. Ritish Kumar (LOC Chair, ritishshield@gmail.com mobile: 85806 68173)
+1. Mr. Himanshu Sharma (Travels and Arrangements ,himanshu4gya@gmail.com mobile: 8005542176)
+1. Mr. Madhu Sudan(Travels and Arrangements, madhu92265.sudan@gmail.com Mobile:7717329692)
 1. Mr. Dharmender(dharmender98thakur@gmail.com Mobile: 8988525968)
-1. Mr. Madhu Sudan(madhu92265.sudan@gmail.com Mobile:7717329692)
 1. Mr. Paryag Sharma(panditparyag@gmail.com Mobile: 7018023532)
 1. Mr. Rahul Singh (rahulinconcible@gmail.com  mobile: 9882858281)
 1. Mr. Ritesh Kumar (ritskapil@gmail.com
+  ## List of Participants
+
+  | S.NO  | Name of Participants  | Program of Study|
+  | 1     |           |           |  
+  | 2     |           |             |
+  | 3     |           |           |  
+  | 4     |           |            |  
