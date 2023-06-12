@@ -16,12 +16,13 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 **Venue and Time :**  The venue of the '**Beginning Astronomy v2: Start a data-driven journey**' workshop is Shahpur Campus of the CUHP, and is about 30 Km from our Main Campus at Dharamshala. The address is: \\
                     **Central University of Himachal Pradesh, Shahpur Parisar** \\
                     **District Kangra, Himachal Pradesh** \\
-                    **India 176206** \\
+                    **India 176206**
 
  **How to Reach?**
- AIR :airplane: Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Shahppur Campus.
- Rail :train2: Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Shahpur Campus.
- Road : :car: CUHP Shahpur campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 60 km, Chandigarh - 245 km, Delhi - 535 km.
+
+ **AIR** : Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Shahppur Campus.\\
+ **Rail** : Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Shahpur Campus.\\
+ **Road** : :car: CUHP Shahpur campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 60 km, Chandigarh - 245 km, Delhi - 535 km.
 
 **CUHP Shahpur Campus**
 [CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
