@@ -17,8 +17,12 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
                     **Central University of Himachal Pradesh, Shahpur Parisar** \\
                     **District Kangra, Himachal Pradesh** \\
                     **India 176206** \\
- The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. Routes can be checked in map: [CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing) \\
- The Workshop will begins at 9:00AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule [Click Here](https://chandrastarclub.github.io/files/program-BA_web.pdf)
+ The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. Routes can be checked in map: [CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing). \\
+ **Information for Students from Outside the campus**
+
+ Students from outside the campus can book there tain from IRCTC website [Train Booking](From Current location to PATHANKOT CANTT - PTKC)(https://www.irctc.co.in/nget/train-search). \\
+ Regular local bus services are available from Pathankot to Shahpur campus.\\ The students will be given TA according to the 3rd tier AC.\\  
+ The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule [Click Here](https://chandrastarclub.github.io/files/program-BA_web.pdf)
 
 **Coordinators :**
 
@@ -41,7 +45,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 ## List of Participants
 
-  | S.NO  | Name of Participants  | Program of Study|
+  | S.NO  | Name of Participants  |Affiliation of participant |
   | 1     |           |           |  
   | 2     |           |           |
   | 3     |           |           |  
