@@ -61,7 +61,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 
 
-  #  Tentative schedule <span id="ProgrammSchedule"></span>
+#  Tentative schedule <span id="ProgrammSchedule"></span>
 
 # Program – Beginning Astronomy v2: Start a Data-driven Journey 6-8 July, Central University of Himachal Pradesh, Kangra
 
