@@ -25,7 +25,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
  **Road** : :car: CUHP Shahpur campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 60 km, Chandigarh - 245 km, Delhi - 535 km.
 
 **CUHP Shahpur Campus**
-[CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
+[CUHP Campus possible Routue: ](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
 
  The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [Click Here](https://chandrastarclub.github.io/files/program-BA_web.pdf)
 
