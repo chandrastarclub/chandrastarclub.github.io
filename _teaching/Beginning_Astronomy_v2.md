@@ -27,7 +27,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 **CUHP Shahpur Campus**
 [CUHP Campus possible Routue: ](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
 
- The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [Click Here](https://chandrastarclub.github.io/files/program-BA_web.pdf)
+ The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [Click Here for pdf file ](https://chandrastarclub.github.io/files/program-BA_web.pdf) and [HERE for schedule table](#ProgrammSchedule)
 
 **Coordinators :**
 
@@ -56,3 +56,49 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
   | 2     |           |           |
   | 3     |           |           |  
   | 4     |           |           |  
+
+
+
+
+
+  #  Tentative schedule <span id="ProgrammSchedule"></span>
+
+
+  # Program – Beginning Astronomy v2: Start a Data-driven Journey 6-8 July, Central University of Himachal Pradesh, Kangra
+
+  #Day-1  (Co-ordinater)
+  |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
+  |:---------------|:---------------------:-----------------
+  |9:30 AM – 10:00 AM  | Opening Remarks |     |
+  |10:00 AM – 11:00 AM | [Introduction to some basic concepts in Astronomy](pdffile)  |  |
+  |11:00 AM - 11:30 AM |  Break |
+  |11:30 AM – 12:30 PM | [Introducing the Sun](pdffile) |  |
+  |12:30 PM – 2:00 PM |  Lunch |
+  |2:00 PM – 3:15 PM |  [Hands-on session on Stellar Evolution](pdffile) |  |
+  |3:15 PM – 3:45 PM | Break |  |
+  |3:45 PM – 5:00 PM |  [Hands-on session on Solar Astronomy](pdffile) |  |
+
+
+
+  #Day-2  (Co-ordinater)
+  |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
+  |:---------------|:---------------------:-----------------
+  |10:00 AM – 11:00 AM | [Galaxy Evolution 1:Milky Way and nearby galaxies)   |  |
+  |11:00 AM - 11:30 AM |  Break |
+  |11:30 AM – 12:30 PM | Galaxy Evolution 2 (Distant galaxies and high-redshift galaxies](pdffile) |  |
+  |12:30 PM – 2:00 PM |  Lunch |
+  |2:00 PM – 3:15 PM |  [Hands-on session on Nearby Galaxies](pdffile)  |  |
+  |3:15 PM – 3:45 PM | Break |  |
+  |3:45 PM – 5:00 PM | [Hands-on session on High-redshift galaxies](pdffile)  |  |
+
+   #Day-3  (Co-ordinater)
+   |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
+   |:---------------|:---------------------:-----------------
+   |10:00 AM – 11:00 AM | [Demo and hands-on session on Astronomy with Public data](pdffile)    |  |
+   |11:00 AM - 11:30 AM |  Break |
+   |11:30 AM – 12:30 PM | [Demo and hands-on session on Astronomy with Public data](pdffile) |  |
+   |12:30 PM – 2:00 PM |  Lunch |
+   |2:00 PM – 3:15 PM |  [Open Questions in Astronomy](pdffile) |  |
+   |3:15 PM – 3:45 PM | Break |  |
+   |3:45 PM – 4:30 PM | [Career in Astronomy](pdffile) |  |
+   |4:30 PM – 5:00 PM | Closing Remarks |  |
