@@ -2,7 +2,7 @@
 title: "Beginning Astronomy v2: Start a data-driven journey"
 collection: Workshop
 type: "Workshop"
-permalink: /teaching/Beginning Astronomy v2
+permalink: /teaching/Beginning_Astronomy_v2
 venue: "Central University of Himachal Pradesh (CUHP), DPAS, Shahpur"
 date: 2023-06-06 to 2023-08-06
 location: "Shahpur, India"
