@@ -17,12 +17,15 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
                     **Central University of Himachal Pradesh, Shahpur Parisar** \\
                     **District Kangra, Himachal Pradesh** \\
                     **India 176206** \\
- The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. Routes can be checked in map: [CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
 
- **How to Reach**
+ **How to Reach?**
+ AIR :airplane: Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Shahppur Campus.
+ Rail :train2: Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Shahpur Campus.
+ Road : :car: CUHP Shahpur campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 60 km, Chandigarh - 245 km, Delhi - 535 km.
 
- Students from outside the campus can book there train from their current railway station to PATHANKOT CANTT-PTKC from IRCTC website [Train Booking](https://www.irctc.co.in/nget/train-search). \\
- Regular local bus services are available from Pathankot to Shahpur campus. It will take 1-1.5 hour to reach from PKT to Shahpur campus. For any further queries students can contact the LOC Members. \\  
+**CUHP Shahpur Campus**
+[CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
+
  The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [Click Here](https://chandrastarclub.github.io/files/program-BA_web.pdf)
 
 **Coordinators :**
