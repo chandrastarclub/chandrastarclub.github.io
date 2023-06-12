@@ -65,7 +65,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 # Program – Beginning Astronomy v2: Start a Data-driven Journey 6-8 July, Central University of Himachal Pradesh, Kangra
 
-#Day-1  (Co-ordinater)
+# Day-1  (Co-ordinater)
 
   |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
   |:---------------|:---------------------:-----------------
@@ -78,7 +78,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
   |3:15 PM – 3:45 PM | Break |  |
   |3:45 PM – 5:00 PM |  [Hands-on session on Solar Astronomy](pdffile) |  |
 
-#Day-2  (Co-ordinater)
+# Day-2  (Co-ordinater)
 
   |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
   |:---------------|:---------------------:-----------------
@@ -90,7 +90,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
   |3:15 PM – 3:45 PM | Break |  |
   |3:45 PM – 5:00 PM | [Hands-on session on High-redshift galaxies](pdffile)  |  |
 
-#Day-3  (Co-ordinater)
+# Day-3  (Co-ordinater)
 
    |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
    |:---------------|:---------------------:-----------------
