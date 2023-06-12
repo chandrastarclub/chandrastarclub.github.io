@@ -22,8 +22,8 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
  **How to Reach**
 
  Students from outside the campus can book there train from their current railway station to PATHANKOT CANTT-PTKC from IRCTC website [Train Booking](https://www.irctc.co.in/nget/train-search). \\
- Regular local bus services are available from Pathankot to Shahpur campus. It will take 1-1.5 hour to reach from PKT to Shahpur campus. For any further queries students can contact the LOC Members.\\  
- The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule [Click Here](https://chandrastarclub.github.io/files/program-BA_web.pdf)
+ Regular local bus services are available from Pathankot to Shahpur campus. It will take 1-1.5 hour to reach from PKT to Shahpur campus. For any further queries students can contact the LOC Members. \\  
+ The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [Click Here](https://chandrastarclub.github.io/files/program-BA_web.pdf)
 
 **Coordinators :**
 
@@ -36,13 +36,14 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 **Members of Local Organising Committee:**
 
-1. Mr. Ritish Kumar (LOC Chair, ritishshield@gmail.com mobile: 85806 68173)
-1. Mr. Himanshu Sharma (Travels and Arrangements ,himanshu4gya@gmail.com mobile: 8005542176)
-1. Mr. Madhu Sudan(Travels and Arrangements, madhu92265.sudan@gmail.com Mobile:7717329692)
-1. Mr. Dharmender(dharmender98thakur@gmail.com Mobile: 8988525968)
-1. Mr. Paryag Sharma(panditparyag@gmail.com Mobile: 7018023532)
-1. Mr. Rahul Singh (rahulinconcible@gmail.com  mobile: 9882858281)
-1. Mr. Ritesh Kumar (ritskapil@gmail.com
+| S.NO  | Name  |Role |email|Contact|
+|1 |Mr. Ritish Kumar | LOC Chair| ritishshield@gmail.com| 85806 68173|
+|2 |Mr. Himanshu Sharma| (Travels | himanshu4gya@gmail.com|  8005542176|
+|3 |Mr. Madhu Sudan |Travels|Travels| madhu92265.sudan@gmail.com| 7717329692|
+|4 |Mr. Paryag Sharma|Technical|panditparyag@gmail.com|  7018023532|
+|5 |Mr. Dharmender|Food|(dharmender98thakur@gmail.com|  8988525968|
+|6 |Mr. Rahul Singh |Food|rahulinconcible@gmail.com |  9882858281|
+|7 |Mr. Ritesh Kumar|Food |ritskapil@gmail.com|8219186467|
 
 ## List of Participants
 
