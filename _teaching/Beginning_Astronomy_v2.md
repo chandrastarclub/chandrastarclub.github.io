@@ -11,11 +11,12 @@ location: "Shahpur, India"
 
 **About the Workshop :** Modern day telescopes produce petabytes of observational data while cosmological simulations push supercomputers to the limits. The publicly accessible nature of a plethora of astronomical datasets thus allows for a hands-on introduction to astronomy for students with basic training in physics, mathematics and computation (late Bachelors/ early Masters level). In this 3-day workshop, we will introduce students to some core concepts in stellar and galaxy astrophysics through a mix of short lectures and hands-on computational sessions with publicly available astronomical databases.
 
-**Venue and Time :**  The venue of the 'Beginning Astronomy v2: Start a data-driven journey' workshop is Shahpur Campus of the CUHP, and is about 30 Km from our Main Campus at Dharamshala. The address is: \\
-                    Central University of Himachal Pradesh, Shahpur Parisar,
-                    District Kangra, Himachal Pradesh
-                    India 176206\\
- The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. The meeting begins at 9:00AM on July 6, 2023 and ends on July 08, 2023. 
+**Venue and Time :**  The venue of the '**Beginning Astronomy v2: Start a data-driven journey**' workshop is Shahpur Campus of the CUHP, and is about 30 Km from our Main Campus at Dharamshala. The address is: \\
+                    **Central University of Himachal Pradesh, Shahpur Parisar** \\
+                    **District Kangra, Himachal Pradesh** \\
+                    **India 176206** \\
+ The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. \\
+ The meeting begins at 9:00AM on July 6, 2023 and ends on July 08, 2023.
 
 **Organisers :**
 
@@ -34,8 +35,4 @@ location: "Shahpur, India"
 1. Mr. Madhu Sudan(madhu92265.sudan@gmail.com Mobile:7717329692)
 1. Mr. Paryag Sharma(panditparyag@gmail.com Mobile: 7018023532)
 1. Mr. Rahul Singh (rahulinconcible@gmail.com  mobile: 9882858281)
-1. Mr. Ritesh KUmar (ritskapil@gmail.com )
-
-### :
-
-## List of Participants
+1. Mr. Ritesh Kumar (ritskapil@gmail.com
