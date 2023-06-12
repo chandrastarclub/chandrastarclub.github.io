@@ -22,12 +22,13 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
  **AIR** : Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Shahppur Campus.\\
  **Rail** : Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Shahpur Campus.\\
- **Road** : :car: CUHP Shahpur campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 60 km, Chandigarh - 245 km, Delhi - 535 km.
+ **Road** : CUHP Shahpur campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 60 km, Chandigarh - 245 km, Delhi - 535 km.
 
-**CUHP Shahpur Campus**
+**CUHP Shahpur Campus:**
+
 [CUHP Campus possible Routue: ](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
 
- The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [Click Here for pdf file ](https://chandrastarclub.github.io/files/program-BA_web.pdf) and [HERE for schedule table](#ProgrammSchedule)
+ The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [click here for pdf file ](https://chandrastarclub.github.io/files/program-BA_web.pdf) and [Here for schedule table](#ProgrammSchedule)
 
 **Coordinators :**
 
@@ -63,9 +64,9 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 #  Tentative schedule <span id="ProgrammSchedule"></span>
 
-# Program – Beginning Astronomy v2: Start a Data-driven Journey 6-8 July, Central University of Himachal Pradesh, Kangra
+## Program – Beginning Astronomy v2: Start a Data-driven Journey 6-8 July, Central University of Himachal Pradesh, Kangra
 
-# Day-1  (Co-ordinater)
+## Day-1  (Co-ordinater)
 
   |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
   |:---------------|:---------------------:-----------------
@@ -78,7 +79,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
   |3:15 PM – 3:45 PM | Break |  |
   |3:45 PM – 5:00 PM |  [Hands-on session on Solar Astronomy](pdffile) |  |
 
-# Day-2  (Co-ordinater)
+## Day-2  (Co-ordinater)
 
   |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
   |:---------------|:---------------------:-----------------
@@ -90,7 +91,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
   |3:15 PM – 3:45 PM | Break |  |
   |3:45 PM – 5:00 PM | [Hands-on session on High-redshift galaxies](pdffile)  |  |
 
-# Day-3  (Co-ordinater)
+## Day-3  (Co-ordinater)
 
    |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
    |:---------------|:---------------------:-----------------
