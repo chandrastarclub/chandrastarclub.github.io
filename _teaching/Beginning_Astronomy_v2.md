@@ -39,7 +39,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 | S.NO  | Name  |Role |email|Contact|
 |1 |Mr. Ritish Kumar | LOC Chair| ritishshield@gmail.com| 85806 68173|
 |2 |Mr. Himanshu Sharma| (Travels | himanshu4gya@gmail.com|  8005542176|
-|3 |Mr. Madhu Sudan |Travels|Travels| madhu92265.sudan@gmail.com| 7717329692|
+|3 |Mr. Madhu Sudan |Travels| madhu92265.sudan@gmail.com| 7717329692|
 |4 |Mr. Paryag Sharma|Technical|panditparyag@gmail.com|  7018023532|
 |5 |Mr. Dharmender|Food|(dharmender98thakur@gmail.com|  8988525968|
 |6 |Mr. Rahul Singh |Food|rahulinconcible@gmail.com |  9882858281|
