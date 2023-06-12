@@ -17,7 +17,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
                     **Central University of Himachal Pradesh, Shahpur Parisar** \\
                     **District Kangra, Himachal Pradesh** \\
                     **India 176206** \\
- The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. Routes can be checked in map: [CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing). \\
+ The campus is located about 10 km from the Dharamshala International Airport, Gaggal towards the Pathankot on NH 154. The nearest railway station is the Pathankot railway station, which is about 60 km from the Shahpur campus. Routes can be checked in map: [CUHP Campus possible Routue](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
 
  **How to Reach**
 
