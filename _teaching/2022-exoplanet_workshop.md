@@ -13,6 +13,12 @@ location: "Shahpur, Central University of Himachal Pradesh, India"
 
 ### Programme Schedule:  July 04th-15th, 2022
 # [Can be found here](https://sites.google.com/view/short-termcourseonexoplanets)
+## Some glimpse of the Workshop
+
+[During Workshop](https://chandrastarclub.github.io/files/exopl_05.jpg)
+[During Workshop](https://chandrastarclub.github.io/files/exopl_02.jpg)
+[During Tea Break](https://chandrastarclub.github.io/files/exopl_04.jpg)
+[Group Photos ](https://chandrastarclub.github.io/files/exopl_01.jpg)
 
 ## List of Participants
 
