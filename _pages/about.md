@@ -47,6 +47,8 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
   1. Ms. Priya Sharma (Member, Sharmabrosis3@gmail.com)
   1. Mr. Manoj Kumar (Member,akanime4u@gmail.com )
   1. Mr. Sachin Kumar(Member,sachinthakur9t9@gmail.com )
+  1. Mr. Nalin Dhiman(Member,dhimannalin2001@gmail.com)
+  1. Mr. Dikshit Gautam(Member)
   1. Mr. Harsh (Member,astrophysicist1804@gmail.com )
 
 ### Faculty mentor:
