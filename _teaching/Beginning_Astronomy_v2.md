@@ -51,16 +51,84 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 |7 |Mr. Ritesh Kumar|Food |ritskapil@gmail.com|8219186467|
 
 ## List of Participants
+## Outstation students
 
   | S.NO  | Name of Participants  |Affiliation of participant |
-  | 1     |           |           |  
-  | 2     |           |           |
-  | 3     |           |           |  
-  | 4     |           |           |  
+| 1             | Aman Kumar                | IIT Guwahati                                    |
+| 2             | AMARNATH                  | IISER Mohali                                    |
+| 3             | Amith Mohanan             | Central University of Jammu                      |
+| 4             | Ananya Sharma             | SMVDU                                            |
+| 5             | Arpitaa Magotra           | Shri Mata Vaishno Devi University                |
+| 6             | Ashutosh Khandelwal       | Lovely Professional University                  |
+| 7             | Ayushi Mahajan            | Panjab University, Chandigarh                    |
+| 8             | Danisha Beniwal           | Panjab University Chandigarh                     |
+| 9             | Dipanshu Yadav            | Central University of Jammu                      |
+| 10            | Isha Raina                | Shri Mata Vaishno Devi University                |
+| 11            | Prosanta Pal              | Indian Institute of Technology Ropar             |
+| 12            | Rohit Kumar               | NIT HAMIRPUR                                    |
+| 13            | Shreshtha Jain            | National Institute of Technology Hamirpur        |
+| 14            | Shubham Sharma            | Himachal Pradesh University Shimla              |
+| 15            | Sudhanshu Thakur          | St Stephen's College, University of Delhi        |
+| 16            | VITTHAL CHANDRAKANT MATE  | NIT HAMIRPUR                                    |
+| 17            | Neeraj Thakur             | Himachal Pradesh University                     |
+| 18            | Rikshat                   | Sardar Patel University Mandi                   |
+| 19            | Omprakash                 | Central University of Jammu                      |
+| 20            | Taniya                    | Himachal Pradesh University Shimla              |
 
+## Local Studenst
 
-
-
+| Serial Number | Name                  | Institute Name                        |
+| ------------- | --------------------- | ------------------------------------- |
+| 1             | Abhinav Kumar         | Central University of Himachal Pradesh |
+| 2             | Ajay Kumar            | Central University of Himachal Pradesh |
+| 3             | Akshay Kumar          | Central University of Himachal Pradesh |
+| 4             | Amit Sharma           | Central University of Himachal Pradesh |
+| 5             | Anshul Choudhary      | Central University of Himachal Pradesh |
+| 6             | ANSHUL KUMAR SHARMA   | Central University of Himachal Pradesh |
+| 7             | Anuraag Rathore       | Central University of Himachal Pradesh |
+| 8             | Aryaa Pathak          | Central University of Himachal Pradesh |
+| 9             | DEBINDER SHARMA       | HPU SHIMLA                             |
+| 10            | Dharmender            | Central University of Himachal Pradesh |
+| 11            | Dikshit Gautam        | Central University of Himachal Pradesh |
+| 12            | Divyanshi Sharma      | Central University of Himachal Pradesh |
+| 13            | Himanshu Sharma       | Central University of Himachal Pradesh |
+| 14            | Jaideep tanwar        | Central university of himchal pardesh  |
+| 15            | Kanika Mankotia       | Central university of himachal pradesh |
+| 16            | Khushi Sharma         | Central University of Himachal Pradesh |
+| 17            | Madhu Sudan           | Central University of Himachal Pradesh |
+| 18            | Manoj Kumar           | Central University of Himachal Pradesh |
+| 19            | Nalin Dhiman          | Central University of Himachal Pradesh |
+| 20            | Pallvi Sharma         | Central University of Himachal Pradesh |
+| 21            | Paryag Sharma         | Central University of Himachal Pradesh |
+| 22            | Priya Sharma          | Central University Of Himachal Pradesh |
+| 23            | Ritish Kumar          | Central University of Himachal Pradesh |
+| 24            | Rohit Thakur          | GDC Dharamshala                        |
+| 25            | Sachin Thakur         | Central University of Himachal Pradesh |
+| 26            | Sahil Singh           | Central University of Himachal Pradesh |
+| 27            | Sangam Kapoor         | Himachal Pradesh University            |
+| 28            | Shradha Thakur        | Himachal Pradesh University            |
+| 29            | Shreya Choudhary      | Central University of Himachal Pradesh |
+| 30            | Yogesh                | Central University of Himachal Pradesh |
+| 31            | Ajay Kumar            | Central University of Himachal Pradesh |
+| 32            | Akshay Kumar          | Central University of Himachal Pradesh |
+| 33            | Amit Sharma           | Central University of Himachal Pradesh |
+| 34            | Anshul Choudhary      | Central University of Himachal Pradesh |
+| 35            | ANSHUL KUMAR SHARMA   | Central University of Himachal Pradesh |
+| 36            | Anuraag Rathore       | Central University of Himachal Pradesh |
+| 37            | Aryaa Pathak          | Central University of Himachal Pradesh |
+| 38            | DEBINDER SHARMA       | HPU SHIMLA                             |
+| 39            | Dharmender            | Central University of Himachal Pradesh |
+| 40            | Dikshit Gautam        | Central University of Himachal Pradesh |
+| 41            | Divyanshi Sharma      | Central University of Himachal Pradesh |
+| 42            | Himanshu Sharma       | Central University of Himachal Pradesh |
+| 43            | Jaideep tanwar        | Central university of himchal pardesh  |
+| 44            | Kanika Mankotia       | Central university of himachal pradesh |
+| 45            | Khushi Sharma         | Central University of Himachal Pradesh |
+| 46            | Madhu Sudan           | Central University of Himachal Pradesh |
+| 47            | Manoj Kumar           | Central University of Himachal Pradesh |
+| 48            | Nalin Dhiman          | Central University of Himachal Pradesh |
+| 49            | Pallvi Sharma         | Central University of Himachal Pradesh |
+| 50            | Paryag Sharma         | Central University of Himachal Pradesh |
 
 #  Tentative schedule <span id="ProgrammSchedule"></span>
 
