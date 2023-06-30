@@ -28,7 +28,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 [CUHP Campus possible Routue: ](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
 
- The Workshop will begins at 9:30AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [click here for pdf file ](https://chandrastarclub.github.io/files/program-BA_web.pdf) and [Here for schedule table](#ProgrammSchedule)
+ The Workshop will begins at 10:00AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [click here for pdf file ](https://chandrastarclub.github.io/files/program-BA_web.pdf) and [Here for schedule table](#ProgrammSchedule)
 
 **Coordinators :**
 
@@ -75,7 +75,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 | 19            | Omprakash                 | Central University of Jammu                      |
 | 20            | Taniya                    | Himachal Pradesh University Shimla              |
 
-## Local Studenst
+## Local Students
 
 | Serial Number | Name                  | Institute Name                        |
 | ------------- | --------------------- | ------------------------------------- |
