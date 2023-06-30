@@ -138,14 +138,14 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
   |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
   |:---------------|:---------------------:-----------------
-  |9:30 AM – 10:00 AM  | Opening Remarks |     |
-  |10:00 AM – 11:00 AM | [Introduction to some basic concepts in Astronomy](pdffile)  |  |
-  |11:00 AM - 11:30 AM |  Break |
-  |11:30 AM – 12:30 PM | [Introducing the Sun](pdffile) |  |
-  |12:30 PM – 2:00 PM |  Lunch |
-  |2:00 PM – 3:15 PM |  [Hands-on session on Stellar Evolution](pdffile) |  |
-  |3:15 PM – 3:45 PM | Break |  |
-  |3:45 PM – 5:00 PM |  [Hands-on session on Solar Astronomy](pdffile) |  |
+  |10:00 AM – 10:00 AM  | Opening Remarks |     |
+  |10:30 AM – 11:30 AM | [Introduction to some basic concepts in Astronomy](pdffile)  |  |
+  |11:30 AM - 12:00 AM |  Break |
+  |12:00 AM – 1:00 PM | [Introducing the Sun](pdffile) |  |
+  |1:00 PM – 2:30 PM |  Lunch |
+  |2:30 PM – 3:45 PM |  [Hands-on session on Stellar Evolution](pdffile) |  |
+  |3:45 PM – 4:15 PM | Break |  |
+  |4:15 PM – 5:30 PM |  [Hands-on session on Solar Astronomy](pdffile) |  |
 
 ## Day-2  (Co-ordinater)
 
