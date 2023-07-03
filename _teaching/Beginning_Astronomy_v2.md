@@ -122,32 +122,33 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
   |10:30 AM – 11:30 AM | [Introduction to some basic concepts in Astronomy](pdffile)  |  |
   |11:30 AM - 12:00 AM |  Break |
   |12:00 AM – 1:00 PM | [Introducing the Sun](pdffile) |  |
-  |1:00 PM – 2:30 PM |  Lunch |
-  |2:30 PM – 3:45 PM |  [Hands-on session on Stellar Evolution](pdffile) |  |
-  |3:45 PM – 4:15 PM | Break |  |
-  |4:15 PM – 5:30 PM |  [Hands-on session on Solar Astronomy](pdffile) |  |
+  |1:00 PM – 2:15 PM |  Lunch |
+  |2:15 PM – 3:30 PM |  [Hands-on session on Stellar Evolution](pdffile) |  |
+  |3:30 PM – 4:00 PM | Break |  |
+  |4:00 PM – 5:10 PM |  [Hands-on session on Solar Astronomy](pdffile) |  |
 
 ## Day-2  (Co-ordinater)
 
   |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
   |:---------------|:---------------------:-----------------
-  |10:00 AM – 11:00 AM | [Galaxy Evolution 1:Milky Way and nearby galaxies)   |  |
-  |11:00 AM - 11:30 AM |  Break |
-  |11:30 AM – 12:30 PM | Galaxy Evolution 2 (Distant galaxies and high-redshift galaxies](pdffile) |  |
-  |12:30 PM – 2:00 PM |  Lunch |
-  |2:00 PM – 3:15 PM |  [Hands-on session on Nearby Galaxies](pdffile)  |  |
-  |3:15 PM – 3:45 PM | Break |  |
-  |3:45 PM – 5:00 PM | [Hands-on session on High-redshift galaxies](pdffile)  |  |
+  |10:00 AM – 10:30 AM | Introduction   |  |
+  |10:30 AM – 11:30 AM | Galaxy Evolution 1 (Milky Way and nearby galaxies)   |  |
+  |11:30 AM - 12:00 AM |  Break |
+  |12:00 AM – 1:00 PM | Galaxy Evolution 2 (Distant galaxies and high-redshift galaxies](pdffile) |  |
+  |1:00 PM – 2:15 PM |  Lunch |
+  |2:15 PM – 3:30 PM |  [Hands-on session on Nearby Galaxies](pdffile)  |  |
+  |3:30 PM – 4:00 PM | Break |  |
+  |4:00 PM – 5:15 PM | [Hands-on session on High-redshift galaxies](pdffile)  |  |
 
 ## Day-3  (Co-ordinater)
 
    |*Time:*      | *Topic* | *Speaker/Tutor(s)* |
    |:---------------|:---------------------:-----------------
-   |10:00 AM – 11:00 AM | [Demo and hands-on session on Astronomy with Public data](pdffile)    |  |
-   |11:00 AM - 11:30 AM |  Break |
-   |11:30 AM – 12:30 PM | [Demo and hands-on session on Astronomy with Public data](pdffile) |  |
-   |12:30 PM – 2:00 PM |  Lunch |
-   |2:00 PM – 3:15 PM |  [Open Questions in Astronomy](pdffile) |  |
+   |10:00 AM – 11:15 AM | [Demo and hands-on session on Astronomy with Public data](pdffile)    |  |
+   |11:15 AM - 11:45 AM |  Break |
+   |11:45 AM – 1:00 PM | [Demo and hands-on session on Astronomy with Public data](pdffile) |  |
+   |1:00 PM – 2:15 PM |  Lunch |
+   |2:15 PM – 3:15 PM |  [Open Questions in Astronomy](pdffile) |  |
    |3:15 PM – 3:45 PM | Break |  |
    |3:45 PM – 4:30 PM | [Career in Astronomy](pdffile) |  |
    |4:30 PM – 5:00 PM | Closing Remarks |  |
