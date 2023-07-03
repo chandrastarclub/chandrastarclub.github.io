@@ -28,7 +28,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 [CUHP Campus possible Routue: ](https://www.google.com/maps/d/u/0/edit?mid=1xNufatJWEkh58pcnHaqmh9eRrv1IjHg&usp=sharing).
 
- The Workshop will begins at 10:00AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [click here for pdf file ](https://chandrastarclub.github.io/files/program-BA_web.pdf) and [Here for schedule table](#ProgrammSchedule)
+ The Workshop will begins at 10:00AM on July 6, 2023 and ends on July 08, 2023. For Tentative Programe Schedule: [click here for pdf file ](https://chandrastarclub.github.io/files/program-BA.pdf) and [Here for schedule table](#ProgrammSchedule)
 
 **Coordinators :**
 
@@ -109,26 +109,6 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 | 28            | Shradha Thakur        | Himachal Pradesh University            |
 | 29            | Shreya Choudhary      | Central University of Himachal Pradesh |
 | 30            | Yogesh                | Central University of Himachal Pradesh |
-| 31            | Ajay Kumar            | Central University of Himachal Pradesh |
-| 32            | Akshay Kumar          | Central University of Himachal Pradesh |
-| 33            | Amit Sharma           | Central University of Himachal Pradesh |
-| 34            | Anshul Choudhary      | Central University of Himachal Pradesh |
-| 35            | ANSHUL KUMAR SHARMA   | Central University of Himachal Pradesh |
-| 36            | Anuraag Rathore       | Central University of Himachal Pradesh |
-| 37            | Aryaa Pathak          | Central University of Himachal Pradesh |
-| 38            | DEBINDER SHARMA       | HPU SHIMLA                             |
-| 39            | Dharmender            | Central University of Himachal Pradesh |
-| 40            | Dikshit Gautam        | Central University of Himachal Pradesh |
-| 41            | Divyanshi Sharma      | Central University of Himachal Pradesh |
-| 42            | Himanshu Sharma       | Central University of Himachal Pradesh |
-| 43            | Jaideep tanwar        | Central university of himchal pardesh  |
-| 44            | Kanika Mankotia       | Central university of himachal pradesh |
-| 45            | Khushi Sharma         | Central University of Himachal Pradesh |
-| 46            | Madhu Sudan           | Central University of Himachal Pradesh |
-| 47            | Manoj Kumar           | Central University of Himachal Pradesh |
-| 48            | Nalin Dhiman          | Central University of Himachal Pradesh |
-| 49            | Pallvi Sharma         | Central University of Himachal Pradesh |
-| 50            | Paryag Sharma         | Central University of Himachal Pradesh |
 
 #  Tentative schedule <span id="ProgrammSchedule"></span>
 
