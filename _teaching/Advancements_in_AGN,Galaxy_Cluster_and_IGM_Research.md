@@ -24,7 +24,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
  **AIR** : Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Shahppur Campus.\\
  **Rail** : Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Shahpur Campus.\\
- **Road** : CUHP Dharamshala campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 60 km, Chandigarh - 245 km, Delhi - 535 km.
+ **Road** : CUHP Dharamshala campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 80 km, Chandigarh - 225 km, Delhi - 525 km.
 
  The Conference will begin at 10:00AM on March 29, 2024 and ends on March 31, 2024. For Tentative Programe Schedule: [click here for pdf file ](https://chandrastarclub.github.io/files/program-BA.pdf) and [Here for schedule table](#ProgrammSchedule)
 
