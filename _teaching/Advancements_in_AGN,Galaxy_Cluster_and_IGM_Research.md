@@ -10,6 +10,7 @@ location: "Dharamshala, India"
 Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
 
 [Workshop Poster:](https://chandrastarclub.github.io/files/poster.jpg)
+![Workshop Poster](/files/poster.jpeg)
 
 **About the Workshop :** Modern day telescopes produce petabytes of observational data while cosmological simulations push supercomputers to the limits. The publicly accessible nature of a plethora of astronomical datasets thus allows for a hands-on introduction to astronomy for students with basic training in physics, mathematics and computation (late Bachelors/ early Masters level). In this 3-day workshop, we will introduce students to some core concepts in stellar and galaxy astrophysics through a mix of short lectures and hands-on computational sessions with publicly available astronomical databases.
 
