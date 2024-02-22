@@ -1,10 +1,10 @@
 ---
 title: "Advancements in AGN, Galaxy Cluster and IGM Research"
-collection: Workshop
+collection: Conference
 type: "National Conference"
 permalink: /teaching/Advancements_in_AGN
-venue: "Dharamshala campus CUHP H.P India"
-date: 2024-03-29 to 2024-03-31
+venue: "From 29 March to 31 March 2024, Dharamshala campus CUHP H.P India"
+date:
 location: "Dharamshala, India"
 ---
 Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
@@ -22,22 +22,23 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
  **How to Reach?**
 
- **AIR** : Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Shahppur Campus.\\
- **Rail** : Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Shahpur Campus.\\
+ **AIR** : Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Dharamshala Campus.\\
+ **Rail** : Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Dharamshala Campus.\\
  **Road** : CUHP Dharamshala campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 80 km, Chandigarh - 225 km, Delhi - 525 km.
 
- The Conference will begin at 10:00AM on March 29, 2024 and ends on March 31, 2024. For Tentative Programe Schedule: [click here for pdf file ](https://chandrastarclub.github.io/files/program-BA.pdf) and [Here for schedule table](#ProgrammSchedule)
+ The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024.
 
+ <!-- The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024. -->
 **Coordinators :**
 
-1. Prof. Hum Chand (CUHP)
-2. Dr. Sowgat Muzahid (IUCAA)
+1. Prof. Hum Chand (CUHP) [Email- humchand@hpcu.ac.in]
+2. Dr. Sowgat Muzahid (IUCAA) [Email - sowgat@iucaa.in]
 
 **Members of Local Organising Committee:**
 
 | S.NO  | Name  |Role |email|Contact|
 |1 |Mr. Ritish Kumar | LOC Chair| ritishshield@gmail.com| 85806 68173|
-|2 |Mr. Himanshu Sharma| Travels | himanshu4gya@gmail.com|  8005542176|
+|2 |Mr. Himanshu Sharma| Travels| himanshu4gya@gmail.com|  8005542176|
 |3 |Mr. Madhu Sudan |Travels| madhu92265.sudan@gmail.com| 7717329692|
 |4 |Mr. Paryag Sharma|Technical|panditparyag@gmail.com|  7018023532|
-|7 |Mr. Ritesh Kumar|Food |ritskapil@gmail.com|8219186467|
+|7 |Mr. Dharmender |Technical|ritskapil@gmail.com|8219186467|

@@ -50,6 +50,14 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
   1. Mr. Nalin Dhiman(Member,dhimannalin2001@gmail.com)
   1. Mr. Dikshit Gautam(Member)
   1. Mr. Harsh (Member,astrophysicist1804@gmail.com )
+  1. Ms. Anshika Ohri (Member,ohrianshu2002@gmail.com)
+  1. Mr. Anshul Kumar Sharma(Member,aksharma120102@gmail.com )
+  1. Mr. Prikshit Choudhary(Member,pkprikshit420@gmail.com)
+  1. Ms. Kanika Mankotia(Member,kanikamankotia292000@gmail.com)
+  1. Ms. Divyanshi Sharma(Member,divyanshiparu3112@gmail.com)
+
+
+
 
 ### Faculty mentor:
    1. [Prof. Hum Chand](https://humchand.in/) (humchand@hpcu.ac.in mobile: 6396937743)
