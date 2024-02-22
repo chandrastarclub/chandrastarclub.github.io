@@ -4,7 +4,6 @@ collection: Conference
 type: "National Conference"
 permalink: /teaching/Advancements_in_AGN
 venue: "From 29 March to 31 March 2024, Dharamshala campus CUHP H.P India"
-date:
 location: "Dharamshala, India"
 ---
 Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
