@@ -49,9 +49,9 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 |2 |Prof. Raghunathan Srianand | IUCAA | anand@iucaa.in|
 |3 |Dr. Sowgat Muzahid | IUCAA | sowgat@iucaa.in|
 |4 |Dr. Rajeshwari Dutta| IUCAA | rajeshwari.dutta@iucaa.in|
-|5 |Dr. Anand Narayanan| IUCAA | anand@iist.ac.in |
+|5 |Dr. Anand Narayanan| IIST | anand@iist.ac.in |
 |6 |Dr. Vivek Jha | MCNS, Manipal | vivekjha.aries@gmail.com |
-|7 |Dr. Krishan Chand | ARIES | Emailnotavailable |
+|7 |Dr. Krishan Chand | ARIES | krishanchand007.kc@gmail.com |
 |8 |Mr. Ranit Behera |IUCAA| ranit.behera@iucaa.in|
 |9 |Ms. Eshita Banerjee |IUCAA| eshitaban18@iucaa.in|
 |10|Mr. Sayak Dutta |IUCAA| sayak18@iucaa.in|
