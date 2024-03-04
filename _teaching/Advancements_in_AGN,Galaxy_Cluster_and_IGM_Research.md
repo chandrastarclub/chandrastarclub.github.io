@@ -45,11 +45,11 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 **List of Participants:**
 
 | S.NO  | Name | Affiliation |email|
-|1 |Prof. Hum Chand | CUHP | humchand@hpcu.ac.in|
-|2 |Prof. Raghunathan Srianand | IUCAA | anand@iucaa.in|
+|1 |Prof. Raghunathan Srianand | IUCAA | anand@iucaa.in|
+|2 |Prof. Anand Narayanan| IIST | anand@iist.ac.in |
 |3 |Dr. Sowgat Muzahid | IUCAA | sowgat@iucaa.in|
-|4 |Dr. Rajeshwari Dutta| IUCAA | rajeshwari.dutta@iucaa.in|
-|5 |Dr. Anand Narayanan| IIST | anand@iist.ac.in |
+|4 |Prof. Hum Chand | CUHP | humchand@hpcu.ac.in|
+|5 |Dr. Rajeshwari Dutta| IUCAA | rajeshwari.dutta@iucaa.in|
 |6 |Dr. Vivek Jha | MCNS, Manipal | vivekjha.aries@gmail.com |
 |7 |Dr. Krishan Chand | ARIES | krishanchand007.kc@gmail.com |
 |8 |Mr. Ranit Behera |IUCAA| ranit.behera@iucaa.in|
