@@ -41,3 +41,28 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 |3 |Mr. Madhu Sudan |Travels| madhu92265.sudan@gmail.com| 7717329692|
 |4 |Mr. Paryag Sharma|Technical|panditparyag@gmail.com|  7018023532|
 |7 |Mr. Dharmender |Technical|ritskapil@gmail.com|8219186467|
+
+**List of Participants:**
+
+| S.NO  | Name | Affiliation |email|
+|1 |Prof. Hum Chand | CUHP | humchand@hpcu.ac.in|
+|2 |Prof. Raghunathan Srianand | IUCAA | anand@iucaa.in|
+|3 |Dr. Sowgat Muzahid | IUCAA | sowgat@iucaa.in|
+|4 |Dr. Rajeshwari Dutta| IUCAA | rajeshwari.dutta@iucaa.in|
+|5 |Dr. Anand Narayanan| IUCAA | anand@iist.ac.in |
+|6 |Dr. Vivek Jha | MCNS, Manipal | vivekjha.aries@gmail.com |
+|7 |Dr. Krishan Chand | ARIES | Emailnotavailable |
+|8 |Mr. Ranit Behera |IUCAA| ranit.behera@iucaa.in|
+|9 |Ms. Eshita Banerjee |IUCAA| eshitaban18@iucaa.in|
+|10|Mr. Sayak Dutta |IUCAA| sayak18@iucaa.in|
+|11|Mr. Sukanya Mallik |IUCAA| sukanyam@iucaa.in|
+|12|Mr. Ritish Kumar |IUCAA| ritishshield@gmail.com|
+|13|Mr. Himanshu Sharma| CUHP| himanshu4gya@gmail.com|
+|14|Mr. Madhu Sudan |CUHP| madhu92265.sudan@gmail.com|
+|15|Mr. Paryag Sharma|CUHP|panditparyag@gmail.com|
+|16|Mr. Dharmender |CUHP|dharmender98thakur@gmail.com|
+|17|Ms. Anshika Ohri |CUHP|ohrianshu2002@gmail.com|
+|18|Mr. Anshul Kumar Sharma |CUHP|aksharma120102@gmail.com|
+|19|Mr. Prikshit Choudhary |CUHP|pkprikshit420@gmail.com|
+|20|Ms. Kanika Mankotia |CUHP|kanikamankotia292000@gmail.com|
+|21|Ms. Divyanshi Sharma |CUHP|divyanshiparu3112@gmail.com|
