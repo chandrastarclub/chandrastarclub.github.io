@@ -56,7 +56,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 |9 |Ms. Eshita Banerjee |IUCAA| eshitaban18@iucaa.in|
 |10|Mr. Sayak Dutta |IUCAA| sayak18@iucaa.in|
 |11|Mr. Sukanya Mallik |IUCAA| sukanyam@iucaa.in|
-|12|Mr. Ritish Kumar |IUCAA| ritishshield@gmail.com|
+|12|Mr. Ritish Kumar |CUHP| ritishshield@gmail.com|
 |13|Mr. Himanshu Sharma| CUHP| himanshu4gya@gmail.com|
 |14|Mr. Madhu Sudan |CUHP| madhu92265.sudan@gmail.com|
 |15|Mr. Paryag Sharma|CUHP|panditparyag@gmail.com|
