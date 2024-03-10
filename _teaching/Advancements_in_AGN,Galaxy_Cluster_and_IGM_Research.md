@@ -24,7 +24,8 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
  **AIR** : Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Dharamshala Campus.\\
  **Rail** : Pathankot Cantt (CANTT-PKTC) is the nearest railway station - 60 Km from CUHP Dharamshala Campus.\\
  **Road** : CUHP Dharamshala campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 80 km, Chandigarh - 225 km, Delhi - 525 km.
-
+ **Location on Map** : https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6
+ 
  The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024.
 
  <!-- The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024. -->
