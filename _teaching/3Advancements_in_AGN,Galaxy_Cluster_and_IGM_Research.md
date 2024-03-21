@@ -29,6 +29,10 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
  The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024.
 
+ **Accommodation Information**
+ **Accommodation for Faculty**:[Hotel Dhauladhar (HPTDC)](https://maps.app.goo.gl/fpLsWBxYvtK3KPDV8)
+  **Accommodation for Faculty**:[Government College of Teacher Education, Dharamshala - Guest House](https://maps.app.goo.gl/RX8z9PXg7sCHze6X9)
+
  <!-- The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024. -->
 **Coordinators :**
 
@@ -40,9 +44,9 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 | S.NO  | Name  |Role |email|Contact|
 |1 |Mr. Ritish Kumar | LOC Chair| ritishshield@gmail.com| 85806 68173|
 |2 |Mr. Himanshu Sharma| Travels| himanshu4gya@gmail.com|  8005542176|
-|3 |Mr. Madhu Sudan |Travels| madhu92265.sudan@gmail.com| 7717329692|
+|3 |Mr. Madhu Sudan |Food| madhu92265.sudan@gmail.com| 7717329692|
 |4 |Mr. Paryag Sharma|Technical|panditparyag@gmail.com|  7018023532|
-|7 |Mr. Dharmender |Technical|ritskapil@gmail.com|8219186467|
+|7 |Mr. Dharmender |Technical|dharmender98thakur@gmail.com|8219186467|
 
 **List of Participants:**
 
