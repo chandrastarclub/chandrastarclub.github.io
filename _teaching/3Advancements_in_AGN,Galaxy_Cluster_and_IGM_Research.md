@@ -29,7 +29,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
  The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024.
 
- **Accommodation Information** \\
+ **Accommodation Information** 
 
 
  **Accommodation for Faculty**:[Hotel Dhauladhar (HPTDC)](https://maps.app.goo.gl/fpLsWBxYvtK3KPDV8)\\
