@@ -3,7 +3,8 @@ title: "Advancements in AGN, Galaxy Cluster and IGM Research"
 collection: Conference
 type: "National Conference"
 permalink: /teaching/Advancements_in_AGN
-venue: "From 29 March to 31 March 2024, Dharamshala campus CUHP H.P India"
+venue: "Dharamshala campus CUHP, India"
+date: 2024-03-29 to 2024-03-31
 location: "Dharamshala, India"
 ---
 Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
