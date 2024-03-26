@@ -18,8 +18,10 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 **Venue and Time :**  The venue of the '**Advancements in AGN, Galaxy Cluster and IGM Research**' workshop is Dharamshala Campus of the CUHP, The address is: \\
                     **Central University of Himachal Pradesh, Dharamshala** \\
                     **District Kangra, Himachal Pradesh** \\
-                    **India 176215**
-
+                    **India 176215** \\
+\\
+**Conference Schedule :** [Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/CUHP_IUCAA_conference_2024.pdf)
+\\
  **How to Reach?**
 
  **AIR** : Nearest Airport - Dharamshala International Airport, Gaggal (10 km) from the Dharamshala Campus.\\
@@ -29,7 +31,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
  The Conference will begin at 09:00AM on March 29, 2024 and ends on March 31, 2024.
 
- **Accommodation Information** 
+ **Accommodation Information**
 
 
  **Accommodation for Faculty**:[Hotel Dhauladhar (HPTDC)](https://maps.app.goo.gl/fpLsWBxYvtK3KPDV8)\\
