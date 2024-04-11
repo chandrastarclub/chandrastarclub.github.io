@@ -76,3 +76,48 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 |19|Mr. Prikshit Choudhary |CUHP|pkprikshit420@gmail.com|
 |20|Ms. Kanika Mankotia |CUHP|kanikamankotia292000@gmail.com|
 |21|Ms. Divyanshi Sharma |CUHP|divyanshiparu3112@gmail.com|
+
+
+**Program schedule**
+
+|**Time**|**Name**|**Title**|
+| - | - | - |
+|**Day 1, 29/03/2024, Friday**|||
+|10:00-10:30|**Inauguration**||
+|**Chair: Sowgat**|||
+|10:15-11:30|R. Srianand|[Review of science questions in CGM and IGM studies](https://chandrastarclub.github.io/files/R_srianand_CUHP_talk.pdf)|
+|**Tea Break**|||
+|12:00-13:00|Anand Narayan|[Studying CGM / IGM Environments - Moving Away from Large Surveys](https://chandrastarclub.github.io/files/CUHP-Talk-Anand_narayanan.pdf)|
+|**Lunch**|||
+|**Chair: Hum Chand**|||
+|14:00-14:40|Ranit|[Simulating Super-Early Galaxies](https://chandrastarclub.github.io/files/Ranit_CUHP.pdf)|
+|14:40-15:20|Sukanya Mallik|Role of ionizing background and feedback processes on metal absorber statistics in cosmological simulations|
+|15:20-15:50|Paryag Sharma|[Analysing Lyman alpha forest using Convolutional Neural Networks](https://chandrastarclub.github.io/files/Conff_presentation-1.pdf)|
+|15:50-16:00|Prikshit Choudhary|Finding Quasar Pairs using DESI and SDSS|
+|**Afternoon Tea**|||
+|**Day 2, 30/03/2024 , (Saturday)**|||
+|**Chair: R. Srianand**|||
+|10:15-11:30|Sowgat Muzahid|Advance in Diffuse matter in CGM and cluster outskirt|
+|**Tea Break**|||
+|12:00-13:00|Rajeshwari Dutta|Absorption and Emission line studies in CGM.|
+|**Lunch**|||
+|**Chair: Anand Narayan**|||
+|14:00-14:40|Sayak|MUSEQuBES: A study of gas and metals around low-redshift galaxies|
+|14:40-15:20|Eshita|The gaseous medium around redshift~3.3 Lyman-alpha emitters|
+|15:20-15:50|Vivek Jha|Unveiling the diversity in AGN population based on X-ray observations|
+|15:50-16:00|Anshika Ohri|SED modeling of Weak emission line quasars using Cigale|
+|**Afternoon Tea**|||
+|**Day 3, 31/03/2024, (Sunday)**|||
+|**Chair: Sowgat**|||
+|10:00-11:00|Hum Chand|[Review of the AGN central engine and its environments](https://chandrastarclub.github.io/files/hum_cuhp_iucaa_31march_simple.pdf)|
+|**Tea Break**|||
+|11:30-12:15|Krishan Chand|Transitions and persistence of the blazar state in beamed radio quasars|
+|12:15-13:00|Ritish Kumar|[On the Nature of Weak Emission line Quasars](https://chandrastarclub.github.io/files/Ritish_CUHP_IUCAA_2024_Talk.pdf)|
+|**Lunch**|||
+|**Chair: Rajeshwary**|||
+|14:00-14:30|Dharmender|[Searching for Lyman alpha emission in DLA](https://chandrastarclub.github.io/files/Dharmender.pdf)|
+|14:30-14:40|Anshul Kumar|Spectroscopic catalog of Weak emission line Quasars|
+|14:40-15:10|Madhu Sudan|[Flux and color variability of NLSY1 and BLSY1 galaxies](https://chandrastarclub.github.io/files/madhu_sudan__talk.pdf)|
+|15:10-15:20|Kanika Mankotia|[X-ray spectral study of the AGN Mrk 335 using AstroSat data](https://chandrastarclub.github.io/files/kanika_Project_MRK_.335.pdf)|
+|15:20-15:50|Himanshu Sharma|[Quasi Periodic Oscillations (QPO) in Intermediate Mass AGNs and Seeing analysis for telescope site characterisation](https://chandrastarclub.github.io/files/Himanshu_conference_advancement_AGN.pdf)|
+|15:50-16:00|Divyanshi Sharma|[Unveiling the INOV of AGNs with the lens of ZTF](https://chandrastarclub.github.io/files/divyanshi_ztf_report.pdf)|
