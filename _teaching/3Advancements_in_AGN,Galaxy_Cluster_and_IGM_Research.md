@@ -9,7 +9,6 @@ location: "Dharamshala, India"
 ---
 Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
 
-[Click Here to View Event Gallery](https://chandrastarclub.github.io/Gallery/Advancements_in_agn_gallery_page.md)
 
 [Click Here to View The Conference Poster](https://chandrastarclub.github.io/files/poster.pdf)
 
