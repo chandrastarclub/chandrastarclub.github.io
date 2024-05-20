@@ -4,6 +4,8 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
+# Some Glimpse of Advancements in AGN, Galaxy Cluster and IGM Research 
+
 <style>
   .gallery {
     display: flex;
@@ -60,7 +62,6 @@ author_profile: true
   <img src="/images/conff_images/4.jpeg" alt="image3" onclick="openModal(this)">
   <img src="/images/conff_images/1.jpeg" alt="image6" onclick="openModal(this)">
   <img src="/images/conff_images/2.jpeg" alt="image7" onclick="openModal(this)">
-  <img src="/images/conff_images/3.jpeg" alt="image8" onclick="openModal(this)">
 </div>
 
 <div id="myModal" class="modal">

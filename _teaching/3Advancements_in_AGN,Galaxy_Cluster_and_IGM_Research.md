@@ -12,6 +12,8 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 
 [Click Here to View The Conference Poster](https://chandrastarclub.github.io/files/poster.pdf)
 
+[Click Here to View Conference Gallery](/gallery/)
+
 [Click Here to fill the expression of interest form](https://forms.gle/H9vR1crytmCr3o1S8)
 
 **About the conference :** The primary objective of this conference is to bring together astronomers, astrophysicists, and cosmologists, including both early-career researchers and seasoned experts, interested in diverse aspects of galaxy, cluster, and intergalactic medium research. The program will be structured to encourage collaboration and exchange of ideas so as to have long term fruitful collaboration between researchers in Institutes and Universities.
