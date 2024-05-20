@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
-**Some Glimpse of Advancements in AGN, Galaxy Cluster and IGM Research**
+**Some Glimpse of Advancements in AGN, Galaxy Cluster and IGM Research Conference**
 
 <style>
   .gallery {
