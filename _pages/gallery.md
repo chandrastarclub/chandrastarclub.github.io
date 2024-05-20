@@ -61,7 +61,6 @@ author_profile: true
   <img src="/images/conff_images/7.jpeg" alt="image2" onclick="openModal(this)">
   <img src="/images/conff_images/4.jpeg" alt="image3" onclick="openModal(this)">
   <img src="/images/conff_images/1.jpeg" alt="image6" onclick="openModal(this)">
-  <img src="/images/conff_images/2.jpeg" alt="image7" onclick="openModal(this)">
 </div>
 
 <div id="myModal" class="modal">
