@@ -14,7 +14,7 @@ author_profile: true
     max-width: 100%;
     height: auto;
     margin: 10px;
-    flex: 1 1 30%; /* This makes sure images take up at least 30% of the row */
+    flex: 1 1 20%; /* This makes sure images take up at least 20% of the row */
     box-sizing: border-box;
   }
 </style>
