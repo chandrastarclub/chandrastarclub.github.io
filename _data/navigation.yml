@@ -4,23 +4,23 @@ main:
   - title: "Public Talks"
     url: /talks/
 
-  - title: "Public events"
-    url: /cv/
+  #- title: "Public events"
+  #  url: /cv/
 
-  - title: "Training & Workshop"
+  - title: "conferences & Workshops"
     url: /teaching/
 
-  - title: "Resources"
-    url: /publications/
+  #- title: "Resources"
+  #  url: /publications/
 
-  - title: "Video/Slides & YouTube Channel"
-    url: /portfolio/
+  #- title: "Video/Slides & YouTube Channel"
+  #  url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
     
   - title: "Gallery"
     url: /gallery/
