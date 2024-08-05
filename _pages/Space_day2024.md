@@ -49,4 +49,4 @@ To commemorate the successful landing of Chandrayaan-3 on the Moon on August 23,
 
 The students from the University and nearby schools/colleges are invited to join in this engaging and educational celebration of National Space Day, filled with activities designed to inspire a passion for space science and exploration!
 
-![Space Day Poster](/images/Space_day_poster.pdf)
+![Space Day Poster](/images/Space_day_poster.jpg)
