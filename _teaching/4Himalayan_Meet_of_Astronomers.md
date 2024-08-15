@@ -14,7 +14,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.a
 [Click Here to fill the expression of interest form](https://forms.gle/QKvAjPpjEybPWL2p9) <!-- Replace with the actual link to the form -->
 
 **About the conference:**  
-The **Second Himalayan Meet of Astronomers (HMA)** is designed to foster collaboration and research in Astrophysics and Astronomy among Ph.D. students, postdoctoral researchers, and senior astronomers. Following the success of the first meeting in 2023, this event will provide a platform for young researchers to present their work, receive feedback from experts, and build networks that will advance astronomical research in Northern India.
+The **Himalayan Meet of Astronomers (HMA)** is designed to foster collaboration and research in Astrophysics and Astronomy among Ph.D. students, postdoctoral researchers, and senior astronomers. Following the success of the first meeting in 2023, this event will provide a platform for young researchers to present their work, receive feedback from experts, and build networks that will advance astronomical research in Northern India.
 
 **Objectives:**  
 - To provide a platform for Ph.D. students and postdoctoral researchers to present and discuss their current research projects.
@@ -23,7 +23,7 @@ The **Second Himalayan Meet of Astronomers (HMA)** is designed to foster collabo
 - To build a network of researchers and institutions focused on advancing astronomical research in the Himalayan region.
 
 **Venue and Time:**  
-The venue of the '**Second Himalayan Meet of Astronomers (HMA) - 2024**' is the Conference Hall, Dharamshala Campus of the Central University of Himachal Pradesh.  
+The venue of the '**Himalayan Meet of Astronomers (HMA) - 2024**' is the Conference Hall, Dharamshala Campus of the Central University of Himachal Pradesh.  
 **Address:**  
 **Central University of Himachal Pradesh, Dharamshala**  
 **District Kangra, Himachal Pradesh**  
@@ -69,4 +69,4 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 - Identification of potential areas for joint research projects and funding opportunities.
 
 **Conclusion:**  
-The **Second Himalayan Meet of Astronomers (HMA)** aims to build on the success of the first meeting by providing a collaborative and supportive environment for young researchers in Astrophysics and Astronomy. This workshop is expected to significantly contribute to the growth and development of astronomical research in Northern India.
+The **Himalayan Meet of Astronomers (HMA)** aims to build on the success of the first meeting by providing a collaborative and supportive environment for young researchers in Astrophysics and Astronomy. This workshop is expected to significantly contribute to the growth and development of astronomical research in Northern India.
