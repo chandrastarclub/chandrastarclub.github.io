@@ -115,7 +115,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/) and [CUHP](https://www.cuhimacha
 |10:00-11:00|Hum Chand|[Review of the AGN central engine and its environments](https://chandrastarclub.github.io/files/hum_cuhp_iucaa_31march_simple.pdf)|
 |**Tea Break**|||
 |11:30-12:15|Krishan Chand|Transitions and persistence of the blazar state in beamed radio quasars|
-|12:15-13:00|Ritish Kumar|[On the Nature of Weak Emission line Quasars](https://chandrastarclub.github.io/files/Ritish_CUHP_IUCAA_2024_Talk.pdf)|
+|12:15-13:00|Ritish Kumar|On the Nature of Weak Emission line Quasars|
 |**Lunch**|||
 |**Chair: Rajeshwary**|||
 |14:00-14:30|Dharmender|[Searching for Lyman alpha emission in DLA](https://chandrastarclub.github.io/files/Dharmender.pdf)|
