@@ -11,6 +11,8 @@ author_profile: true
 
 To commemorate the successful landing of Chandrayaan-3 on the Moon on August 23, 2023, the Central University of Himachal Pradesh is celebrating National Space Day on August 23, 2024, with a series of events organized by the Chandra-STAR Club of the Department of Physics and Astronomical Science. The celebrations will span over three weeks, starting from August 1st to August 23rd, immediately after the summer vacation.
 
+![Event Pictures](https://drive.google.com/drive/folders/1vDoJM25c1Jxq3YsAEs_xu2d9EwMz4HrN?usp=sharing)
+
 ## August (Week 1 & 2):
 **Public Lecture (Offline Mode/Online)**  
 **Date/Time:** Wednesday, August 7, 11:00 AM  
