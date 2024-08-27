@@ -1,5 +1,5 @@
 ---
-title: "Himalayan Meet of Astronomers (HMA) - 2024"
+title: "Himalayan Meet of Astronomers (HMA) - 2024 (14th to 15th September)"
 collection: Conference
 type: "National Conference"
 permalink: /conferences/HMA2024
@@ -14,7 +14,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.a
 [Click Here to fill the registration form](https://forms.gle/sL6GPFKiudfbZFxG6) <!-- Replace with the actual link to the form -->
 
 **About the conference:**  
-The **Himalayan Meet of Astronomers (HMA)** is designed to foster collaboration and research in Astrophysics and Astronomy among Ph.D. students, postdoctoral researchers, and senior astronomers. Following the success of the first meeting in 2023, this event will provide a platform for young researchers to present their work, receive feedback from experts, and build networks that will advance astronomical research in Northern India.
+The **Himalayan Meet of Astronomers (HMA)** taking place from 14th to 15th September 2024, is designed to foster collaboration and research in Astrophysics and Astronomy among Ph.D. students, postdoctoral researchers, and senior astronomers. Following the success of the first meeting in 2023, this event will provide a platform for young researchers to present their work, receive feedback from experts, and build networks that will advance astronomical research in Northern India.
 
 **Objectives:**  
 - To provide a platform for Ph.D. students, postdoctoral or recently joined young faculty researchers to present and discuss their current research projects.
