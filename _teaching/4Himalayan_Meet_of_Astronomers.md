@@ -62,31 +62,47 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 | 5    | Mr. Paryag Sharma | Technical   | panditparyag@gmail.com         | 7018023532     |
 | 6    | Mr. Dharmender    | Technical   | dharmender98thakur@gmail.com   | 8219186467     |
 
+**List of Faculty:**
+
+| S.NO | Name                | Affiliation                                      | Email                        |
+|------|---------------------|--------------------------------------------------|------------------------------|
+| 1    | Prof. R. Srianand   | IUCAA, Pune                                      | anand@iucaa.in  |
+| 2    | Prof. Durgesh Tripathi | IUCAA, Pune                                   |               |
+| 3    | Prof. Sowgat M.     | Presidency University, Kolkata                   | sowgat@iucaa.in  |
+| 4    | Prof. Anupam Bhardwaj | ARIES, Nainital                                |              |
+| 5    | Prof. Naseer Iqbal  | University of Kashmir, Srinagar                  |naseeriqbal@uok.edu.in |
+| 6    | Prof. Jeevan C. Pandey | ARIES, Nainital                                |              |
+
 **List of Participants:**
 
-| Name              | Affiliation                              | Email                        |
-|-------------------|------------------------------------------|------------------------------|
-| Athar Ahmad Dar    | University of Kashmir, Hazratbal         | ather.dar6@gmail.com          |
-| Zeeshan Nazir      | Central University of Kashmir            | mirzeeshannazir@gmail.com     |
-| Aaqib Manzoor      | University of Kashmir                    | aqibmanzoor1111@gmail.com     |
-| Charita Pant       | Kumaun University, Nainital              | pantcharita94@gmail.com       |
-| Sanjit Debnath     | ARIES, Nainital                          | sanjitphysics1998@gmail.com   |
-| Rajesh             | IISER Mohali (Currently at IISc)         | ms20062@iisermohali.ac.in     |
-| Bhuwan Joshi       | IIT Mandi, Himachal Pradesh              | bhuwanj230@gmail.com          |
-| Vishal Kale        | S. R. T. M. University, Nanded Maharashtra | vishalphykale@gmail.com      |
-| Sajad Ahamd Ahanger | University of Kashmir                   | sajadphysics21@gmail.com      |
-| Pritam Nanda       | IISER Mohali                             | pritamnanda@iisermohali.ac.in |
-| Zahoor Ahmad Malik | NIT Srinagar                             | malikzahoor313@gmail.com      |
-| Sajad Ahmad Boked  | University of Kashmir                    | sboked10@gmail.com            |
-| Apoorv Dashora     | Kumaun University, Nainital              | dashoraapoorv@gmail.com       |
-| Sahil Devdutt      | Central University of Himachal Pradesh   | devduttsahil@gmail.com        |
-| Niraj Kumar Sahu   | IISER Mohali                             | ph24033@iisermohali.ac.in     |
-| Akshay Kumar       | Central University of Himachal Pradesh   | akshay.relativity@gmail.com   |
-| Jincen Jose        | ARIES, Nainital                          | jincenjose08745@gmail.com     |
-| Simran Arora       | Central University of Himachal Pradesh   | 009simranarora@gmail.com      |
-| Shivangi Pandey    | ARIES, Nainital                          | shivangi101096@gmail.com      |
-| Javaid Ahmad Tantry | University of Kashmir                   | javaidtantray9@gmail.com      |
-| Naveen Dukiya      | ARIES, Nainital                          | ndookia@gmail.com             |
+| S.NO | Name              | Affiliation                              | Email                        |
+|------|-------------------|------------------------------------------|------------------------------|
+| 1    | Mr. Ritish Kumar  | CUHP                                     | ritishshield@gmail.com        |
+| 2    | Mr. Krishan Chand | CUHP                                     | krishanchand007.kc@gmail.com  |
+| 3    | Mr. Himanshu Sharma | CUHP                                   | himanshu4gya@gmail.com        |
+| 4    | Mr. Madhu Sudan   | CUHP                                     | madhu92265.sudan@gmail.com    |
+| 5    | Mr. Paryag Sharma | CUHP                                     | panditparyag@gmail.com        |
+| 6    | Mr. Dharmender    | CUHP                                     | dharmender98thakur@gmail.com  |
+| 7    | Athar Ahmad Dar   | University of Kashmir, Hazratbal         | ather.dar6@gmail.com          |
+| 8    | Zeeshan Nazir     | Central University of Kashmir            | mirzeeshannazir@gmail.com     |
+| 9    | Aaqib Manzoor     | University of Kashmir                    | aqibmanzoor1111@gmail.com     |
+| 10   | Charita Pant      | Kumaun University, Nainital              | pantcharita94@gmail.com       |
+| 11   | Sanjit Debnath    | ARIES, Nainital                          | sanjitphysics1998@gmail.com   |
+| 12   | Rajesh            | IISER Mohali (Currently at IISc)         | ms20062@iisermohali.ac.in     |
+| 13   | Bhuwan Joshi      | IIT Mandi, Himachal Pradesh              | bhuwanj230@gmail.com          |
+| 14   | Sajad Ahamd Ahanger | University of Kashmir                 | sajadphysics21@gmail.com      |
+| 15   | Pritam Nanda      | IISER Mohali                             | pritamnanda@iisermohali.ac.in |
+| 16   | Zahoor Ahmad Malik | NIT Srinagar                            | malikzahoor313@gmail.com      |
+| 17   | Sajad Ahmad Boked | University of Kashmir                   | sboked10@gmail.com            |
+| 18   | Apoorv Dashora    | Kumaun University, Nainital              | dashoraapoorv@gmail.com       |
+| 19   | Sahil Devdutt     | Central University of Himachal Pradesh   | devduttsahil@gmail.com        |
+| 20   | Niraj Kumar Sahu  | IISER Mohali                             | ph24033@iisermohali.ac.in     |
+| 21   | Akshay Kumar      | Central University of Himachal Pradesh   | akshay.relativity@gmail.com   |
+| 22   | Jincen Jose       | ARIES, Nainital                          | jincenjose08745@gmail.com     |
+| 23   | Simran Arora      | Central University of Himachal Pradesh   | 009simranarora@gmail.com      |
+| 24   | Shivangi Pandey   | ARIES, Nainital                          | shivangi101096@gmail.com      |
+| 25   | Javaid Ahmad Tantry | University of Kashmir                 | javaidtantray9@gmail.com      |
+| 26   | Naveen Dukiya     | ARIES, Nainital                          | ndookia@gmail.com             |
 
 
 **Expected Outcomes:**  
