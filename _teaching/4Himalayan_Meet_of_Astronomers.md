@@ -72,6 +72,7 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 | 4    | Prof. Anupam Bhardwaj | ARIES, Nainital                                |              |
 | 5    | Prof. Naseer Iqbal  | University of Kashmir, Srinagar                  |naseeriqbal@uok.edu.in |
 | 6    | Prof. Jeevan C. Pandey | ARIES, Nainital                                |              |
+|7     |Prof. Hum Chand | Central University of Himachal Pradesh|humchand@hpcu.ac.in| 
 
 **List of Participants:**
 
