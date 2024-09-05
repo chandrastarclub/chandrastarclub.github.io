@@ -62,6 +62,33 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 | 5    | Mr. Paryag Sharma | Technical   | panditparyag@gmail.com         | 7018023532     |
 | 6    | Mr. Dharmender    | Technical   | dharmender98thakur@gmail.com   | 8219186467     |
 
+**List of Participants:**
+
+| Name              | Affiliation                              | Email                        |
+|-------------------|------------------------------------------|------------------------------|
+| Athar Ahmad Dar    | University of Kashmir, Hazratbal         | ather.dar6@gmail.com          |
+| Zeeshan Nazir      | Central University of Kashmir            | mirzeeshannazir@gmail.com     |
+| Aaqib Manzoor      | University of Kashmir                    | aqibmanzoor1111@gmail.com     |
+| Charita Pant       | Kumaun University, Nainital              | pantcharita94@gmail.com       |
+| Sanjit Debnath     | ARIES, Nainital                          | sanjitphysics1998@gmail.com   |
+| Rajesh             | IISER Mohali (Currently at IISc)         | ms20062@iisermohali.ac.in     |
+| Bhuwan Joshi       | IIT Mandi, Himachal Pradesh              | bhuwanj230@gmail.com          |
+| Vishal Kale        | S. R. T. M. University, Nanded Maharashtra | vishalphykale@gmail.com      |
+| Sajad Ahamd Ahanger | University of Kashmir                   | sajadphysics21@gmail.com      |
+| Pritam Nanda       | IISER Mohali                             | pritamnanda@iisermohali.ac.in |
+| Zahoor Ahmad Malik | NIT Srinagar                             | malikzahoor313@gmail.com      |
+| Sajad Ahmad Boked  | University of Kashmir                    | sboked10@gmail.com            |
+| Apoorv Dashora     | Kumaun University, Nainital              | dashoraapoorv@gmail.com       |
+| Sahil Devdutt      | Central University of Himachal Pradesh   | devduttsahil@gmail.com        |
+| Niraj Kumar Sahu   | IISER Mohali                             | ph24033@iisermohali.ac.in     |
+| Akshay Kumar       | Central University of Himachal Pradesh   | akshay.relativity@gmail.com   |
+| Jincen Jose        | ARIES, Nainital                          | jincenjose08745@gmail.com     |
+| Simran Arora       | Central University of Himachal Pradesh   | 009simranarora@gmail.com      |
+| Shivangi Pandey    | ARIES, Nainital                          | shivangi101096@gmail.com      |
+| Javaid Ahmad Tantry | University of Kashmir                   | javaidtantray9@gmail.com      |
+| Naveen Dukiya      | ARIES, Nainital                          | ndookia@gmail.com             |
+
+
 **Expected Outcomes:**  
 - Enhanced quality of research through feedback and mentorship.
 - Increased collaboration among researchers and institutions in the region.
