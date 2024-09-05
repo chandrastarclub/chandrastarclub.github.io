@@ -77,12 +77,12 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 
 | S.NO | Name              | Affiliation                              | Email                        |
 |------|-------------------|------------------------------------------|------------------------------|
-| 1    | Mr. Ritish Kumar  | CUHP                                     | ritishshield@gmail.com        |
-| 2    | Mr. Krishan Chand | CUHP                                     | krishanchand007.kc@gmail.com  |
-| 3    | Mr. Himanshu Sharma | CUHP                                   | himanshu4gya@gmail.com        |
-| 4    | Mr. Madhu Sudan   | CUHP                                     | madhu92265.sudan@gmail.com    |
-| 5    | Mr. Paryag Sharma | CUHP                                     | panditparyag@gmail.com        |
-| 6    | Mr. Dharmender    | CUHP                                     | dharmender98thakur@gmail.com  |
+| 1    | Mr. Ritish Kumar  | Central University of Himachal Pradesh  | ritishshield@gmail.com        |
+| 2    | Mr. Krishan Chand | Central University of Himachal Pradesh   | krishanchand007.kc@gmail.com  |
+| 3    | Mr. Himanshu Sharma | Central University of Himachal Pradesh   | himanshu4gya@gmail.com        |
+| 4    | Mr. Madhu Sudan   | Central University of Himachal Pradesh | madhu92265.sudan@gmail.com    |
+| 5    | Mr. Paryag Sharma |Central University of Himachal Pradesh  | panditparyag@gmail.com        |
+| 6    | Mr. Dharmender    | Central University of Himachal Pradesh  | dharmender98thakur@gmail.com  |
 | 7    | Athar Ahmad Dar   | University of Kashmir, Hazratbal         | ather.dar6@gmail.com          |
 | 8    | Zeeshan Nazir     | Central University of Kashmir            | mirzeeshannazir@gmail.com     |
 | 9    | Aaqib Manzoor     | University of Kashmir                    | aqibmanzoor1111@gmail.com     |
