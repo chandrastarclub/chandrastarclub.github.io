@@ -49,6 +49,17 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
 1. Mr. Dikshit Gautam(Member)
 1. Ms. Khushi Mehta (Member)
 1. Mr. Ishaan Shandilya (Member)
+1. Mr. Divyansh Kaundal(Member, mobile: 9015101876)
+1. Ms. Kanishka (Member, mobile: 8627846266)
+1. Mr. Arnav (Member, mobile: 8006831336)
+1. Mr. Vaneet (Member, mobile: 9015019689)
+1. Ms. Shayna Bharti (Member, mobile: 7876858217)
+1. Mr. Tanishk (Member, mobile: 9555388828)
+1. Ms. Vedika (Member, mobile: 8219454025)
+1. Ms. Pallvi (Member, mobile: 8894280579)
+1. Mr. Shiwang (Member, mobile: 7876214316)
+1. Mr. Anshul (Member, mobile: 6230245032)
+
 
 ### Alumni members:
   1. Mr. Lalit Kumar (Coodinator, lalitbijj409@gmail.com  mobile: 70189 68448)
