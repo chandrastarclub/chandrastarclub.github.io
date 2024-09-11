@@ -29,7 +29,7 @@ The venue of the '**Himalayan Meet of Astronomers (HMA) - 2024**' is the Confere
 **District Kangra, Himachal Pradesh**  
 **India 176215**  
 
-**Conference Schedule:** [Click Here to View The Conference Schedule](#) <!-- Replace with the actual link to the schedule -->
+**Conference Schedule:** [Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/HMA_conference_2024_schedule.pdf) <!-- Replace with the actual link to the schedule -->
 
 **How to Reach?**
 
@@ -40,10 +40,12 @@ The venue of the '**Himalayan Meet of Astronomers (HMA) - 2024**' is the Confere
 
 The Conference will begin at 09:00 AM on September 14, 2024, and will conclude on September 15, 2024.
 
-**Accommodation Information:**
+**Expected Outcomes:**  
+- Enhanced quality of research through feedback and mentorship.
+- Increased collaboration among researchers and institutions in the region.
+- Formation of a network of young astronomers focused on advancing research in the Himalayan region.
+- Identification of potential areas for joint research projects and funding opportunities.
 
-- **Accommodation for Faculty:**
-- **Accommodation for Students:**
 
 **Coordinators:**
 
@@ -105,12 +107,47 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 | 25   | Javaid Ahmad Tantry | University of Kashmir                 | javaidtantray9@gmail.com      |
 | 26   | Naveen Dukiya     | ARIES, Nainital                          | ndookia@gmail.com             |
 
+### Conference Schedule
 
-**Expected Outcomes:**  
-- Enhanced quality of research through feedback and mentorship.
-- Increased collaboration among researchers and institutions in the region.
-- Formation of a network of young astronomers focused on advancing research in the Himalayan region.
-- Identification of potential areas for joint research projects and funding opportunities.
-
-**Conclusion:**  
-The **Himalayan Meet of Astronomers (HMA)** aims to build on the success of the first meeting by providing a collaborative and supportive environment for young researchers in Astrophysics and Astronomy. This workshop is expected to significantly contribute to the growth and development of astronomical research in Northern India.
+| Time          | Speaker               | Title                                                                                   | Chair / Session Remarks                          |
+|---------------|-----------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Day 1 - 14/09/2024 (Saturday)**                                                                                             |
+| 09:30-10:00   | -                     | Inauguration                                                                            | Chair: Durgesh Tripathi [Stellar Astrophysics]   |
+| 10:00-10:10   | -                     | Remarks: On Research Area & Current Session                                             |                                                  |
+| 10:10-10:30   | Gurpreet Singh         | Shadow Maps: Imaging the far side of stellar coronae                                    |                                                  |
+| 10:30-10:50   | Apoorv Dashora         | On the Genesis of Extreme-ultraviolet (EUV) waves                                       |                                                  |
+| 10:50-11:10   | Naveen Dukiya          | Probing the Circumstellar Environment of Highly Luminous Type IIn SN ASASSN-14          |                                                  |
+| 11:10-11:30   | Charita Pant           | Understanding Fast Radio Bursts: A Deep Dive into Their Mechanisms                      |                                                  |
+| 11:30-11:50   | -                     | **Tea Break**                                                                           |                                                  |
+| 11:50-12:10   | Bhuvan Joshi           | Testing Statistical Isotropy using 21cm Power and Bispectrum                            |                                                  |
+| 12:10-12:30   | Sanjit Debnath         | Numerical simulations of variable accretion flows onto non-rotating black holes         |                                                  |
+| 12:30-12:50   | Akriti Garg            | Gravitational Collapse with Non-Zero Cosmological Constant in Spherical Symmetry        |                                                  |
+| 12:50-14:00   | -                     | **Lunch Break**                                                                         |                                                  |
+| 14:00-14:10   | -                     | Remarks: On Research Area & Current Session                                             | Chair: Jeevan C. Pandey [Blazars]                |
+| 14:10-14:30   | Sajad Ahamd Ahanger    | Multi-wavelength temporal and spectral study of the FSRQ B2 1348+30B                    |                                                  |
+| 14:30-14:50   | Athar Ahmad Dar        | Signature of hadronic emission in the gamma-ray spectrum of B2,1308+326                 |                                                  |
+| 14:50-15:10   | Zeeshan Nazir          | Multiwavelength study of FSRQ: PKS 0402-362                                             |                                                  |
+| 15:10-15:30   | Niraj Kumar Sahu       | Optical and X-ray variability of the blazar                                             |                                                  |
+| 15:30-15:50   | -                     | **Afternoon Tea**                                                                       |                                                  |
+| 15:50-16:00   | -                     | Remarks: On Research Area & Current Session                                             | Chair: Anupam Bhardwaj                           |
+| 16:00-16:20   | Zahoor Ahmad Malik     | Redshift estimation of distant galaxies and inconsistency in Extragalactic Background Light |                                              |
+| 16:20-16:40   | Sajad Ahmad Boked      | Re-brightening phase of GRS 1915+105 observed with AstroSat and NuSTAR                  |                                                  |
+| **Day 2 - 15/09/2024 (Sunday)**                                                                                              |
+| 09:30-09:40   | -                     | Remarks: On Research Area & Current Session                                             | Chair: Naseer Iqbal [AGN]                        |
+| 09:40-10:00   | Shivangi Pandey        | Spectrophotometric reverberation mapping of Intermediate-mass black hole NGC 4395       |                                                  |
+| 10:00-10:20   | Jincen Jose            | A spectropolarimetric view: gamma-ray emitting NLSY1 1H0323+342                         |                                                  |
+| 10:20-10:40   | Krishan Chand          | Intranight optical monitoring of the rare quasar J0950+5128                             |                                                  |
+| 10:40-11:00   | Ritish Kumar           | Probing the inner region of Weak emission line Quasars                                  |                                                  |
+| 11:00-11:20   | Madhusudan             | TBD                                                                                     |                                                  |
+| 11:20-11:40   | Dharmender             | Detecting Lyman alpha emission in the HI absorber                                       |                                                  |
+| 11:40-12:00   | -                     | **Tea Break**                                                                           |                                                  |
+| 12:00-12:20   | Sahil Devdutt          | Quasilocal Characterization of Black Hole                                               |                                                  |
+| 12:20-12:40   | Akshay Kumar           | Marginally trapped surfaces in pure Gauss-Bonnet gravity                                |                                                  |
+| 12:40-13:00   | Pritam Nanda           | Local first law of black hole                                                           |                                                  |
+| 13:00-14:00   | -                     | **Lunch Break**                                                                         |                                                  |
+| 14:00-14:10   | -                     | Remarks: On Research Area & Current Session                                             | Chair: Sowgat Muzahid [Blazar]                   |
+| 14:10-14:30   | Tushar Tripathi         | Optical Variability of the blazar S5 0716+714 on diverse timescale                      |                                                  |
+| 14:30-14:50   | Shubham Kishore        | Recent comprehensions on mid-November 2021 violent optical flare in blazar OJ 287       |                                                  |
+| 14:50-15:10   | Paryag Sharma          | Using artificial intelligence to analyze Lyman alpha forest                             |                                                  |
+| 15:10-15:30   | Himanshu Sharma        | TBD                                                                                     |                                                  |
+| 15:30-16:00   | -                     | Concluding Remarks                                                                      | Chair: Hum Chand                                 |
