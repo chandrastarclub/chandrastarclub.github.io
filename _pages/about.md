@@ -31,7 +31,9 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
 
 
 ## About US:
-   The Chandra STAR club is being run **"by the student for the student"** and all the faculties and students of department of Physics and Astronomical science actively volunteer for this activities. In year, our volunteer for the main key responsibilities are:
+   The Chandra STAR club is being run **"by the student for the student"** and all the faculties and students of department of Physics and Astronomical science actively volunteer for this activities.
+   🔗 **Video Showcasing our work:**  
+[Click here to watch](https://drive.google.com/file/d/1HiJuwQaOBaKP5cWSvuPV2Pj3A7MkgZAO/view?usp=sharing)
 
 ### Current members:
 1. [Mr. Ritish Kumar](https://www.researchgate.net/profile/Ritish-Kumar-2) (Convener, ritishshield@gmail.com mobile: 85806 68173)
