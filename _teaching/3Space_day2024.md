@@ -1,9 +1,10 @@
 ---
-layout: archive
 title: "Space Day"
+type: "Event"
 permalink: /space_day/
-author_profile: true
+venue: "Shahpur campus CUHP, India"
 ---
+Organised by: Chandra star club
 
 ![Space Day Celebration](/images/space_day.jpg)
 
