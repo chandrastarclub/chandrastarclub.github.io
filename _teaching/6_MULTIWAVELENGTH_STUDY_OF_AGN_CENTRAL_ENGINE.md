@@ -32,7 +32,6 @@ The venue of the '**Multiwavelength study of AGN central engine, and its environ
 - **Road:** CUHP Dharamshala campus is connected by road to major centers of northern India. Some major road distances from the Institute are: Pathankot - 80 km, Chandigarh - 225 km, Delhi - 525 km.
 - **Location on Map:** [Central University of Himachal Pradesh Dharamshala Campus](https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6)
 
-The Conference will begin at 09:00 AM on September 14, 2024, and will conclude on September 15, 2024.
 
 **Expected Outcomes:**  
 - Enhanced quality of research through feedback and mentorship.
@@ -54,7 +53,7 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 | S.NO | Name              | Role        | Email                          | Contact        |
 |------|-------------------|-------------|--------------------------------|----------------|
 | 1    | Mr. Ritish Kumar  | LOC Chair   | ritishshield@gmail.com         | 85806 68173    |
-| 2    | Mr. Krishan Chand | SOC Chair   |krishanchand007.kc@gmail.com    |  8091712308    |
+| 2    | Dr. Krishan Chand | SOC Chair   |krishanchand007.kc@gmail.com    |  8091712308    |
 | 3    | Mr. Himanshu Sharma | Travels   | himanshu4gya@gmail.com         | 8005542176     |
 | 4    | Mr. Madhu Sudan   | Food        | madhu92265.sudan@gmail.com     | 7717329692     |
 | 5    | Mr. Paryag Sharma | Technical   | panditparyag@gmail.com         | 7018023532     |
