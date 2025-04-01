@@ -60,4 +60,4 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 | 5    | Mr. Paryag Sharma | Technical   | panditparyag@gmail.com         | 7018023532     |
 | 6    | Mr. Dharmender    | Technical   | dharmender98thakur@gmail.com   | 8219186467     |
 | 7    | Mr. Anshul Kumar Sharma | Technical | aksharma120102@gmail.com   | 9459632655     |
-| 8    | Mrs. Priya Sharma    | Technical   | Priya.insights02@gmail.com   | 8219191753    |
+| 8    | Ms. Priya Sharma    | Technical   | Priya.insights02@gmail.com   | 8219191753    |
