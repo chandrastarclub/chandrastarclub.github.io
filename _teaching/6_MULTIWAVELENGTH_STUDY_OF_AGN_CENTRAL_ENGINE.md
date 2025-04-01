@@ -44,7 +44,10 @@ The Conference will begin at 09:00 AM on September 14, 2024, and will conclude o
 **Coordinators:**
 
 1. Prof. Hum Chand (CUHP) [Email: humchand@hpcu.ac.in]
-3. Dr. Ranjeev Misra (IUCAA) [Email: ranjeev@iucaa.in]
+2. Prof. Gulab C. Dwangan [Email: gulab@iucaa.in]
+
+**SOC Chair:**
+2. Prof. Ranjeev Misra (IUCAA) [Email: ranjeev@iucaa.in]
 
 **Members of Local Organising Committee:**
 
