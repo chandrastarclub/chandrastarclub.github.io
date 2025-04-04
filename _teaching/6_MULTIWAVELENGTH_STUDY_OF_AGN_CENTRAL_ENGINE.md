@@ -53,7 +53,7 @@ The venue of the '**Multiwavelength study of AGN central engine, and its environ
 | S.NO | Name              | Role        | Email                          | Contact        |
 |------|-------------------|-------------|--------------------------------|----------------|
 | 1    | Mr. Ritish Kumar  | LOC Chair   | ritishshield@gmail.com         | 85806 68173    |
-| 2    | Dr. Krishan Chand | Technical  |krishanchand007.kc@gmail.com    |  8091712308    |
+| 2    | Dr. Krishan Chand | SOC Member  |krishanchand007.kc@gmail.com    |  8091712308    |
 | 3    | Mr. Himanshu Sharma | Travels   | himanshu4gya@gmail.com         | 8005542176     |
 | 4    | Mr. Madhu Sudan   | Food        | madhu92265.sudan@gmail.com     | 7717329692     |
 | 5    | Mr. Paryag Sharma | Technical   | panditparyag@gmail.com         | 7018023532     |
