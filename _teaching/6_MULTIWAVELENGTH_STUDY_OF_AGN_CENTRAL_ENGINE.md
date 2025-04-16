@@ -9,7 +9,7 @@ location: "Dharamshala, India"
 ---
 Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
 
-[Click Here to View The Conference Poster](https://chandrastarclub.github.io/files/Conference_IUCAA_CUHP_2025_poster.pdf) <!-- Replace with the actual link to the poster -->
+[Click Here to View The Conference Poster](https://chandrastarclub.github.io/files/Conference_IUCAA_CUHP_2025.pdf) <!-- Replace with the actual link to the poster -->
 
 [Click Here to fill the registration form](https://forms.gle/J6mJVyoupbym2AMJ7) <!-- Replace with the actual link to the form -->
 
