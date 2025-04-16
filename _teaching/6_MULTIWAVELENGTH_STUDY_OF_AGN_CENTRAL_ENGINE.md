@@ -4,7 +4,7 @@ collection: Workshop
 type: "Workshop"
 permalink: /teaching/AGN_workshop
 venue: "Conference Hall, Dharamshala Campus, Central University of Himachal Pradesh, Dharamshala, H.P., India"
-date: 2025-05-10 to 2025-05-12
+date: 2025-05-17 to 2025-05-19
 location: "Dharamshala, India"
 ---
 Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
@@ -14,7 +14,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.a
 [Click Here to fill the registration form](https://forms.gle/J6mJVyoupbym2AMJ7) <!-- Replace with the actual link to the form -->
 
 **About the conference:**  
-The Workshop on  **Multiwavelength study of AGN central engine, and its environment** is taking place from 10th to 12th May, 2025. The primary objective of this conference is to unite researchers from all across India to discuss recent advancements, opportunities, and challenges in AGN-related research. The program is designed to foster collaboration and knowledge exchange, aiming to establish long-term, productive partnerships between researchers in institutes and universities.
+The Workshop on  **Multiwavelength study of AGN central engine, and its environment** is taking place from 17th to 19th May, 2025. The primary objective of this conference is to unite researchers from all across India to discuss recent advancements, opportunities, and challenges in AGN-related research. The program is designed to foster collaboration and knowledge exchange, aiming to establish long-term, productive partnerships between researchers in institutes and universities.
 
 
 **Venue and Time:**  
