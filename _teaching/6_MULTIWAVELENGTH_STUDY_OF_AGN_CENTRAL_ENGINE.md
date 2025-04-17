@@ -12,6 +12,14 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.a
 [Click Here to View The Conference Poster](https://chandrastarclub.github.io/files/Conference_IUCAA_CUHP_2025.pdf) <!-- Replace with the actual link to the poster -->
 
 [Click Here to fill the registration form](https://forms.gle/J6mJVyoupbym2AMJ7) <!-- Replace with the actual link to the form -->
+## Important Dates
+
+- **Registration Opens:** 2nd April 2025  
+- **Registration Closes:** 20th April 2025  
+- **First Selection List:** 23rd April 2025  
+- **Second Selection List:** 28th April 2025  
+- **Program Announcement:** 2nd May 2025  
+- **Conference Dates:** 17th–19th May 2025
 
 **About the conference:**  
 The Workshop on  **Multiwavelength study of AGN central engine, and its environment** is taking place from 17th to 19th May, 2025. The primary objective of this conference is to unite researchers from all across India to discuss recent advancements, opportunities, and challenges in AGN-related research. The program is designed to foster collaboration and knowledge exchange, aiming to establish long-term, productive partnerships between researchers in institutes and universities.
