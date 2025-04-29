@@ -92,20 +92,21 @@ The venue of the '**Multiwavelength study of AGN central engine, and its environ
 | 17     | Kavita Kumari               | Kamla Rai College, Jai Prakash University, Bihar                |
 | 18     | Krishan Chand               | Central University of Himachal Pradesh                          |
 | 19     | Madhu Sudan                 | Central University of Himachal Pradesh                          |
-| 20     | Meet Panchal                | Department of Physics, University of Mumbai                     |
-| 21     | Megha                       | Indian Institute of Science Education and Research, Mohali      |
-| 22     | Navya Saraswat              | NIT Surat                                                       |
-| 23     | NIRAJ KUMAR SAHU            | IISER Mohali, Punjab, 140306                                    |
-| 24     | Nitu                        | Pandit Ravi Shankar University                                  |
-| 25     | Pankaj Kushwaha             | IISER-Mohali                                                    |
-| 26     | Paryag Sharma               | Central University of Himachal Pradesh                          |
-| 27     | Priya Sharma                | Central University of Himachal Pradesh                          |
-| 28     | Raj Prince                  | Banaras Hindu University, Varanasi, Uttar Pradesh               |
-| 29     | Ranjeev Misra               | Inter-University Centre for Astronomy and Astrophysics          |
-| 30     | Rithu A                     | University of Calicut                                           |
-| 31     | Ritish Kumar                | Central University of Himachal Pradesh                          |
-| 32     | Sakshi Maurya               | Banaras Hindu University                                        |
-| 33     | Shree Suman                 | IIT Hyderabad                                                   |
-| 34     | Subhashree Swain           | IUCAA, Pune                                                     |
-| 35     | SUVAS CHANDRA CHAUDHARY     | IUCAA Pune                                                      |
-| 36     | Vishal Thakur               | Central University of Himachal Pradesh                          |
+| 20     | Main Pal                    | Sri Venkateswara College, University of Delhi                   |
+| 21     | Meet Panchal                | Department of Physics, University of Mumbai                     |
+| 22     | Megha                       | Indian Institute of Science Education and Research, Mohali      |
+| 23     | Navya Saraswat              | NIT Surat                                                       |
+| 24     | NIRAJ KUMAR SAHU            | IISER Mohali, Punjab, 140306                                    |
+| 25     | Nitu                        | Pandit Ravi Shankar University                                  |
+| 26     | Pankaj Kushwaha             | IISER-Mohali                                                    |
+| 27     | Paryag Sharma               | Central University of Himachal Pradesh                          |
+| 28     | Priya Sharma                | Central University of Himachal Pradesh                          |
+| 29     | Raj Prince                  | Banaras Hindu University, Varanasi, Uttar Pradesh               |
+| 30     | Ranjeev Misra               | Inter-University Centre for Astronomy and Astrophysics          |
+| 31     | Rithu A                     | University of Calicut                                           |
+| 32     | Ritish Kumar                | Central University of Himachal Pradesh                          |
+| 33     | Sakshi Maurya               | Banaras Hindu University                                        |
+| 34     | Shree Suman                 | IIT Hyderabad                                                   |
+| 35     | Subhashree Swain           | IUCAA, Pune                                                     |
+| 36     | SUVAS CHANDRA CHAUDHARY     | IUCAA Pune                                                      |
+| 37     | Vishal Thakur               | Central University of Himachal Pradesh                          |
