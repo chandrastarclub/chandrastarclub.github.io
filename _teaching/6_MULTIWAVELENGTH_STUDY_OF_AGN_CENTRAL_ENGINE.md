@@ -107,7 +107,8 @@ The venue of the '**Multiwavelength study of AGN central engine, and its environ
 | 32     | Rithu A                     | University of Calicut                                           |
 | 33     | Ritish Kumar                | Central University of Himachal Pradesh                          |
 | 34     | Sakshi Maurya               | Banaras Hindu University                                        |
-| 35     | Shree Suman                 | IIT Hyderabad                                                   |
-| 36     | Subhashree Swain           | IUCAA, Pune                                                     |
-| 37     | SUVAS CHANDRA CHAUDHARY     | IUCAA Pune                                                      |
-| 38     | Vishal Thakur               | Central University of Himachal Pradesh                          |
+| 35     | Shahjahan Iqbal             | Manipal Centre for Natural Sciences, Manipal Academy of Higher Education|
+| 36     | Shree Suman                 | IIT Hyderabad                                                   |
+| 37     | Subhashree Swain            | IUCAA, Pune                                                     |
+| 38     | SUVAS CHANDRA CHAUDHARY     | IUCAA Pune                                                      |
+| 39     | Vishal Thakur               | Central University of Himachal Pradesh                          |
