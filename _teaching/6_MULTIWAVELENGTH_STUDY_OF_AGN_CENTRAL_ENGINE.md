@@ -99,16 +99,15 @@ The venue of the '**Multiwavelength study of AGN central engine, and its environ
 | 24     | Megha                       | Indian Institute of Science Education and Research, Mohali      |
 | 25     | Navya Saraswat              | NIT Surat                                                       |
 | 26     | NIRAJ KUMAR SAHU            | IISER Mohali, Punjab, 140306                                    |
-| 27     | Nitu                        | Pandit Ravi Shankar University                                  |
+| 27     | Nwtu                        | Pandit Ravi Shankar University                                  |
 | 28     | Pankaj Kushwaha             | IISER-Mohali                                                    |
 | 29     | Paryag Sharma               | Central University of Himachal Pradesh                          |
 | 30     | Priya Sharma                | Central University of Himachal Pradesh                          |
 | 31     | Raj Prince                  | Banaras Hindu University, Varanasi, Uttar Pradesh               |
-| 32     | Ranjeev Misra               | Inter-University Centre for Astronomy and Astrophysics          |
-| 33     | Rithu A                     | University of Calicut                                           |
-| 34     | Ritish Kumar                | Central University of Himachal Pradesh                          |
-| 35     | Sakshi Maurya               | Banaras Hindu University                                        |
-| 36     | Shree Suman                 | IIT Hyderabad                                                   |
-| 37     | Subhashree Swain           | IUCAA, Pune                                                     |
-| 38     | SUVAS CHANDRA CHAUDHARY     | IUCAA Pune                                                      |
-| 39     | Vishal Thakur               | Central University of Himachal Pradesh                          |
+| 32     | Rithu A                     | University of Calicut                                           |
+| 33     | Ritish Kumar                | Central University of Himachal Pradesh                          |
+| 34     | Sakshi Maurya               | Banaras Hindu University                                        |
+| 35     | Shree Suman                 | IIT Hyderabad                                                   |
+| 36     | Subhashree Swain           | IUCAA, Pune                                                     |
+| 37     | SUVAS CHANDRA CHAUDHARY     | IUCAA Pune                                                      |
+| 38     | Vishal Thakur               | Central University of Himachal Pradesh                          |
