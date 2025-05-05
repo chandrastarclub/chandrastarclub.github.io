@@ -12,6 +12,8 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.a
 [Click Here to View The Conference Poster](https://chandrastarclub.github.io/files/Conference_IUCAA_CUHP_2025.pdf) <!-- Replace with the actual link to the poster -->
 
 [Click Here to fill the registration form](https://forms.gle/J6mJVyoupbym2AMJ7) <!-- Replace with the actual link to the form -->
+
+[Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/Tentative_AGN_conferemce_schedule_2025.pdf) <!-- Replace with the actual link to the poster -->
 ## Important Dates
 
 - **Registration Opens:** 2nd April 2025  
