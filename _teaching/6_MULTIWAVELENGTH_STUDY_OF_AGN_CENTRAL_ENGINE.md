@@ -9,11 +9,6 @@ location: "Dharamshala, India"
 ---
 Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
 
-## ⚠️ Conference Postponed
-
-Due to ongoing security concerns stemming from the current India-Pakistan tensions—including frequent closures of the Dharamshala airport and issues near the Pathankot Cantonment railway station—the organizing committee has decided to **postpone the conference** in the interest of participants' safety. The event is now **tentatively rescheduled for mid-June 2025**, with exact dates to be announced at least 15 days in advance. We sincerely apologize for any inconvenience and thank you for your understanding and continued support.
-
-
 [Click Here to View The Conference Poster](https://chandrastarclub.github.io/files/Conference_IUCAA_CUHP_2025.pdf) <!-- Replace with the actual link to the poster -->
 
 [Click Here to fill the registration form](https://forms.gle/J6mJVyoupbym2AMJ7) <!-- Replace with the actual link to the form -->
@@ -22,7 +17,7 @@ Due to ongoing security concerns stemming from the current India-Pakistan tensio
 
 
 **About the conference:**  
-The Workshop on  **Multiwavelength study of AGN central engine, and its environment** is taking place from 17th to 19th May, 2025. The primary objective of this conference is to unite researchers from all across India to discuss recent advancements, opportunities, and challenges in AGN-related research. The program is designed to foster collaboration and knowledge exchange, aiming to establish long-term, productive partnerships between researchers in institutes and universities.
+The Workshop on  **Multiwavelength study of AGN central engine, and its environment** is taking place from 6th to 8th June, 2025. The primary objective of this conference is to unite researchers from all across India to discuss recent advancements, opportunities, and challenges in AGN-related research. The program is designed to foster collaboration and knowledge exchange, aiming to establish long-term, productive partnerships between researchers in institutes and universities.
 
 
 **Venue and Time:**  
