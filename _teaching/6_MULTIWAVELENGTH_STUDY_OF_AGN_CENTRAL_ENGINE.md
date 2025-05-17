@@ -13,7 +13,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.a
 
 [Click Here to fill the registration form](https://forms.gle/J6mJVyoupbym2AMJ7) <!-- Replace with the actual link to the form -->
 
-[Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/Tentative_AGN_conferemce_schedule_2025.pdf) <!-- Replace with the actual link to the poster -->
+[Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/Final_AGN_conferemce_schedule_June_2025.pdf) <!-- Replace with the actual link to the poster -->
 
 
 **About the conference:**  
