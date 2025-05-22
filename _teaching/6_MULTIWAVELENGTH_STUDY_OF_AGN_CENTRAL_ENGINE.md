@@ -84,26 +84,23 @@ The venue of the '**Multiwavelength study of AGN central engine, and its environ
 | 14     | Hritwik Bora                | Tezpur University                                               |
 | 15     | Hum Chand                   | Central University of Himachal Pradesh                          |
 | 16     | Jashanpreet Singh Dingra    | Guru Nanak Dev University, Amritsar                             |
-| 17     | Joysankar Majumdar          | Banaras Hindu University                                        |
-| 18     | Kavita Kumari               | Kamla Rai College, Jai Prakash University, Bihar                |
-| 19     | Krishan Chand               | Central University of Himachal Pradesh                          |
-| 20     | Madhu Sudan                 | Central University of Himachal Pradesh                          |
-| 21     | Main Pal                    | Sri Venkateswara College, University of Delhi                   |
-| 22     | Mayukh Pahari               | Indian Institute of Technology Hyderabad                        |
-| 23     | Meet Panchal                | Department of Physics, University of Mumbai                     |
-| 24     | Megha                       | Indian Institute of Science Education and Research, Mohali      |
-| 25     | Navya Saraswat              | NIT Surat                                                       |
-| 26     | NIRAJ KUMAR SAHU            | IISER Mohali, Punjab, 140306                                    |
-| 27     | Nwtu                        | Pandit Ravi Shankar University                                  |
-| 28     | Pankaj Kushwaha             | IISER-Mohali                                                    |
-| 29     | Paryag Sharma               | Central University of Himachal Pradesh                          |
-| 30     | Priya Sharma                | Central University of Himachal Pradesh                          |
-| 31     | Raj Prince                  | Banaras Hindu University, Varanasi, Uttar Pradesh               |
-| 32     | Rithu A                     | University of Calicut                                           |
-| 33     | Ritish Kumar                | Central University of Himachal Pradesh                          |
-| 34     | Sakshi Maurya               | Banaras Hindu University                                        |
-| 35     | Shahjahan Iqbal             | Manipal Centre for Natural Sciences, Manipal Academy of Higher Education|
-| 36     | Shree Suman                 | IIT Hyderabad                                                   |
-| 37     | Subhashree Swain            | IUCAA, Pune                                                     |
-| 38     | SUVAS CHANDRA CHAUDHARY     | IUCAA Pune                                                      |
-| 39     | Vishal Thakur               | Central University of Himachal Pradesh                          |
+| 17     | Kavita Kumari               | Kamla Rai College, Jai Prakash University, Bihar                |
+| 18     | Krishan Chand               | Central University of Himachal Pradesh                          |
+| 19     | Madhu Sudan                 | Central University of Himachal Pradesh                          |
+| 20     | Main Pal                    | Sri Venkateswara College, University of Delhi                   |
+| 21     | Meet Panchal                | Department of Physics, University of Mumbai                     |
+| 22     | Megha                       | Indian Institute of Science Education and Research, Mohali      |
+| 23     | Navya Saraswat              | NIT Surat                                                       |
+| 24     | NIRAJ KUMAR SAHU            | IISER Mohali, Punjab, 140306                                    |
+| 25     | Pankaj Kushwaha             | IISER-Mohali                                                    |
+| 26     | Paryag Sharma               | Central University of Himachal Pradesh                          |
+| 27     | Pathikrit Guha              | Indian Institute of Technology Palakkad                         |
+| 28     | Priya Sharma                | Central University of Himachal Pradesh                          |
+| 29     | Raj Prince                  | Banaras Hindu University, Varanasi, Uttar Pradesh               |
+| 30     | Rithu A                     | University of Calicut                                           |
+| 31     | Ritish Kumar                | Central University of Himachal Pradesh                          |
+| 32     | Shahjahan Iqbal             | Manipal Centre for Natural Sciences, Manipal Academy of Higher Education |
+| 33     | Shree Suman                 | IIT Hyderabad                                                   |
+| 34     | Subhashree Swain            | IUCAA, Pune                                                     |
+| 35     | Suvas  CHAUDHARY            | IUCAA Pune                                                      |
+| 36     | Vishal Thakur               | Central University of Himachal Pradesh                          |
