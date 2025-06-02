@@ -13,7 +13,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [CUHP](https://www.cuhimachal.a
 
 [Click Here to fill the registration form](https://forms.gle/J6mJVyoupbym2AMJ7) <!-- Replace with the actual link to the form -->
 
-[Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/Final_AGN_conferemce_schedule_June_2025.pdf) <!-- Replace with the actual link to the poster -->
+[Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/AGN_conferemce_schedule_June_2025.pdf) <!-- Replace with the actual link to the poster -->
 
 
 **About the conference:**  
@@ -96,6 +96,7 @@ The venue of the '**Multiwavelength study of AGN central engine, and its environ
 | 26     | Paryag Sharma               | Central University of Himachal Pradesh                          |
 | 27     | Pathikrit Guha              | Indian Institute of Technology Palakkad                         |
 | 28     | Priya Sharma                | Central University of Himachal Pradesh                          |
+| 29     | Rahul Verma                 | IIsc Bengaluru                                                  |
 | 29     | Raj Prince                  | Banaras Hindu University, Varanasi, Uttar Pradesh               |
 | 30     | Rithu A                     | University of Calicut                                           |
 | 31     | Ritish Kumar                | Central University of Himachal Pradesh                          |
