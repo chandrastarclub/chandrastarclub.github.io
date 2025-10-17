@@ -43,7 +43,7 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
 1. Mr. Paryag Sharma(Coordinator,panditparyag@gmail.com Mobile: 7018023532)
 1. Mr. Rahul Singh (Coodinator, rahulinconcible@gmail.com  mobile: 9882858281)
 1. Mr. Ishwar Kant (Coodinator, ishwrknt@gmail.com  mobile: 7876129329)
-1. Mr. Shreya Sinha (Member, sheryasinha1012@gmail.com  mobile: 988206646)
+1. Ms. Shreya Sinha (Member, sheryasinha1012@gmail.com  mobile: 988206646)
 1. Mr. Labh Singh (Member, sainilabh5@gmail.com mobile: 7018163432)
 1. Mr. Ritesh Kumar (Member,ritskapil@gmail.com )
 1. Ms. Simran Arora (Member, 009simranarora@gmail.com)
