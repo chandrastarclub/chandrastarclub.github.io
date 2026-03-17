@@ -50,9 +50,9 @@ All related files for this event are available below:
 
 ### 📑 Seminar Materials
 
-- [ILMT Seminar Slides](https://chandrastarclub.github.io/files/ilmt/Seminar_CUHP_GL_05_03_2026.pdf)
+- [ILMT Seminar Slides](https://chandrastarclub.github.io/files/ilmt/Seminar_CUHP_ILMT_05_03_2026_compressed.pdf)
 - [Interferometry Seminar Slides](https://chandrastarclub.github.io/files/ilmt/Seminar_CUHP_Iinterf_06_03_2026_bis_compressed.pdf)
-- [Gravitational Lensing Seminar](https://chandrastarclub.github.io/files/ilmt/Seminar_CUHP_ILMT_05_03_2026_compressed.pdf)
+- [Gravitational Lensing Seminar](https://chandrastarclub.github.io/files/ilmt/Seminar_CUHP_GL_05_03_2026.pdf)
 
 ---
 
