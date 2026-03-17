@@ -1,23 +1,23 @@
 ---
 title: "Observing the Wonders of Nature: From Camera Obscura to the 4-m International Liquid Mirror Telescope (ILMT)"
 collection: Talks
-type: "Public Lecture"
+type: "Public Lecture & Seminar Series"
 permalink: /talks/ilmt_public_lecture
-venue: "Dharamshala Govt. Degree College Auditorium"
-date: 2026-03-06
+venue: "Dharamshala Govt. Degree College Auditorium & CUHP Seminar Hall"
+date: 2026-03-05 to 2026-03-06
 location: "Dharamshala, India"
 ---
 
 Organised by: Department of Physics and Astronomical Science (ICARD), Dharamshala Govt. Degree College  
-In association with Raman Society  
+In association with Raman Society & Central University of Himachal Pradesh (CUHP)
 
 ---
 
-## 📌 About the Lecture
+## 📌 About the Events
 
-A public lecture titled **"Observing the Wonders of Nature: From Camera Obscura to the 4-m International Liquid Mirror Telescope (ILMT)"** will explore the evolution of observational astronomy—from early optical devices to modern cutting-edge facilities like the ILMT.
+A series of lectures by **Prof. Jean Surdej** focusing on modern observational astrophysics, covering the evolution of optical instruments, gravitational lensing, and the science of the **International Liquid Mirror Telescope (ILMT)**.
 
-The talk will highlight how innovative telescope technologies are transforming time-domain astronomy and enabling new discoveries.
+These events include an academic seminar at CUHP and a public outreach lecture at Dharamshala Govt. Degree College.
 
 ---
 
@@ -32,21 +32,45 @@ He is currently the Principal Investigator of India’s **4-m International Liqu
 
 ---
 
-## 🗓️ Event Details
+## 🗓️ Event Schedule
+
+### 📍 1. CUHP Seminar (Academic)
+
+- **Date:** 5th March 2026  
+- **Venue:** Seminar Hall, Central University of Himachal Pradesh (CUHP)
+
+**Talks:**
+- 🕥 **10:30 PM – 11:12 PM**  
+  *The International Liquid Mirror Telescope Project – Overview and Initial Results*
+
+- 🕦 **11:30 PM – 12:00 PM**  
+  *High tea and round table discussion on astronomy and opportunities across Europe*
+
+- 🕛 **12:00 PM – 1:00 PM**  
+  *The optical gravitational lens experiment and discovery of multiply imaged quasars with Gaia and the ILMT*
+
+---
+
+### 📍 2. Public Lecture (Outreach)
 
 - **Date:** 6th March 2026  
 - **Time:** 12:00 PM – 1:00 PM  
-- **Venue:** Dharamshala College Auditorium  
+- **Venue:** Dharamshala Govt. Degree College Auditorium  
 - **Entry:** Free and open to all  
+
+**Title:**  
+*Observing the Wonders of Nature: From Camera Obscura to the 4-m International Liquid Mirror Telescope (ILMT)*
 
 ---
 
 ## 📂 Resources & Files
 
-All related files for this event are available below:
+### 🖼️ Posters
 
-- [📄 Lecture Poster](https://chandrastarclub.github.io/files/ilmt/public_talk_Jean_surdej6thMarch.jpg)
-- [📄 Alternate Poster](https://chandrastarclub.github.io/files/ilmt/Public_talk_poster_2026.jpg)
+- [📄 Public Lecture Poster](https://chandrastarclub.github.io/files/ilmt/public_talk_Jean_surdej6thMarch.jpg)
+- [📄 CUHP Seminar Poster](https://chandrastarclub.github.io/files/ilmt/Public_talk_poster_2026.jpg)
+
+---
 
 ### 📑 Seminar Materials
 
@@ -56,25 +80,27 @@ All related files for this event are available below:
 
 ---
 
-## 📍 Venue Address
+## 📍 Venues
+
+**Central University of Himachal Pradesh (CUHP)**  
+Dharamshala, District Kangra, Himachal Pradesh, India  
 
 **Dharamshala Govt. Degree College**  
-Dharamshala, District Kangra  
-Himachal Pradesh, India  
+Dharamshala, Himachal Pradesh, India  
 
 ---
 
 ## 🚀 Highlights
 
-- Introduction to Liquid Mirror Telescope technology  
-- Scientific goals of ILMT  
-- Time-domain astronomy and transient detection  
-- Evolution of observational techniques  
+- Liquid Mirror Telescope (ILMT) technology  
+- First scientific results from ILMT  
+- Gravitational lensing and quasar discoveries  
+- Opportunities in international astronomy collaborations  
 
 ---
 
 ## 📌 Note
 
-This is a public outreach lecture aimed at students, researchers, and astronomy enthusiasts.
+This event series combines academic discussions and public outreach, aimed at students, researchers, and astronomy enthusiasts.
 
 ---
