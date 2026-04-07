@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
-**Some Glimpse of Advancements in AGN, Galaxy Cluster and IGM Research Conference**
+<h2>Some Glimpse of Advancements in AGN, Galaxy Cluster and IGM Research Conference</h2>
 
 <style>
   .gallery {
@@ -83,6 +83,15 @@ author_profile: true
 </script>
 
 <hr>
+
+<hr>
+
+<h2>Some Glimpse of Himalayan Meet of Astronomers (HMA) - 2024</h2>
+<div class="gallery">
+  <img src="/images/HMA_2024/1.png" onclick="openModal(this)">
+  <img src="/images/HMA_2024/2.png" onclick="openModal(this)">
+  <img src="/images/HMA_2024/3.png" onclick="openModal(this)">
+</div>
 
 <hr>
 
