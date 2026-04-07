@@ -6,6 +6,21 @@ author_profile: true
 
 ---
 
+<hr>
+
+<h2>Some Glimpse of Observing the Wonders of Nature: From Camera Obscura to the 4-m International Liquid Mirror Telescope (ILMT)</h2>
+<div class="gallery">
+  <img src="/images/lensing_school/1.jpeg" onclick="openModal(this)">
+  <img src="/images/lensing_school/2.jpeg" onclick="openModal(this)">
+  <img src="/images/lensing_school/3.jpeg" onclick="openModal(this)">
+</div>
+
+<hr>
+
+
+
+<hr>
+
 <h2>Some Glimpse of Multiwavelength study of AGN central engine, and its environment</h2>
 <div class="gallery">
   <img src="/images/agn_central_engine/1.jpeg" onclick="openModal(this)">
