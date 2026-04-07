@@ -81,3 +81,14 @@ author_profile: true
     modal.style.display = "none";
   }
 </script>
+
+<hr>
+
+<p><strong>Some Glimpse of Exoplanet Workshop on Extra-solar Planets and the Search for Habitable Worlds</strong></p>
+
+<div class="gallery">
+  <img src="/images/exoplanet_workshop/1.png" onclick="openModal(this)">
+  <img src="/images/exoplanet_workshop/2.png" onclick="openModal(this)">
+  <img src="/images/exoplanet_workshop/3.png" onclick="openModal(this)">
+  <img src="/images/exoplanet_workshop/4.png" onclick="openModal(this)">
+</div>
