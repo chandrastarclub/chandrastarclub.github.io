@@ -84,6 +84,17 @@ author_profile: true
 
 <hr>
 
+<p><strong>Some Glimpse of Beginning Astronomy v2: Start a data-driven journey</strong></p>
+
+<div class="gallery">
+  <img src="/images/data_driven_astrophysics/1.jpeg" onclick="openModal(this)">
+  <img src="/images/data_driven_astrophysics/2.png" onclick="openModal(this)">
+  <img src="/images/data_driven_astrophysics/3.png" onclick="openModal(this)">
+</div>
+
+
+<hr>
+
 <p><strong>Some Glimpse of Exoplanet Workshop on Extra-solar Planets and the Search for Habitable Worlds</strong></p>
 
 <div class="gallery">
