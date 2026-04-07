@@ -8,9 +8,9 @@ author_profile: true
 
 <h2>Some Glimpse of Multiwavelength study of AGN central engine, and its environment</h2>
 <div class="gallery">
-  <img src="/images/HMA_2024/1.png" onclick="openModal(this)">
-  <img src="/images/HMA_2024/2.png" onclick="openModal(this)">
-  <img src="/images/HMA_2024/3.png" onclick="openModal(this)">
+  <img src="/images/agn_central_engine/1.jpeg" onclick="openModal(this)">
+  <img src="/images/agn_central_engine/2.jpeg" onclick="openModal(this)">
+  <img src="/images/agn_central_engine/3.jpeg" onclick="openModal(this)">
 </div>
 
 <hr>
@@ -19,7 +19,6 @@ author_profile: true
 <div class="gallery">
   <img src="/images/HMA_2024/1.png" onclick="openModal(this)">
   <img src="/images/HMA_2024/2.png" onclick="openModal(this)">
-  <img src="/images/HMA_2024/3.png" onclick="openModal(this)">
 </div>
 
 <hr>
