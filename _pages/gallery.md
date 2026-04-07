@@ -84,7 +84,16 @@ author_profile: true
 
 <hr>
 
-<p><strong>Some Glimpse of Beginning Astronomy v2: Start a data-driven journey</strong></p>
+<hr>
+
+<h2>Some Glimpse of Space Day celebration (1 month event)</h2>
+<div class="gallery">
+  <img src="/images/space_day/1.jpg" onclick="openModal(this)">
+  <img src="/images/space_day/2.jpg" onclick="openModal(this)">
+  <img src="/images/space_day/3.jpg" onclick="openModal(this)">
+</div>
+
+<h2>Some Glimpse of Beginning Astronomy v2: Start a data-driven journey</h2>
 
 <div class="gallery">
   <img src="/images/data_driven_astrophysics/1.jpeg" onclick="openModal(this)">
@@ -95,8 +104,7 @@ author_profile: true
 
 <hr>
 
-<p><strong>Some Glimpse of Exoplanet Workshop on Extra-solar Planets and the Search for Habitable Worlds</strong></p>
-
+<h2>Some Glimpse of Exoplanet Workshop on Extra-solar Planets and the Search for Habitable Worlds</h2>
 <div class="gallery">
   <img src="/images/exoplanet_workshop/1.png" onclick="openModal(this)">
   <img src="/images/exoplanet_workshop/2.png" onclick="openModal(this)">
