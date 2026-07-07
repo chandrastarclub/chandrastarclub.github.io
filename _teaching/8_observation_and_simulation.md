@@ -111,7 +111,7 @@ https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6
 ## Local Organising Committee
 
 | Name | Role | Email |
-|------|------|-------|
+| :--- | :--- | :--- |
 | **Mr. Madhu Sudan** | LOC Member | madhu92265.sudan@gmail.com |
 | **Mr. Paryag Sharma** | LOC Member | panditparyag@gmail.com |
 | **Mr. Anshul Kumar Sharma** | LOC Member | aksharma120102@gmail.com |
@@ -119,13 +119,13 @@ https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6
 | **Mr. Vishal Thakur** | LOC Member | thakurvishal20610@gmail.com |
 | **Mr. Sachin Pandey** | LOC Member | 25mph010@nith.ac.in |
 | **Mr. Saikhom Johnson** | LOC Member | saikhomjohnson007@gmail.com |
----
-
-# Invited Speakers
-
-(To be announced)
 
 ---
 
+## Invited Speakers
 
-We look forward to welcoming researchers, postdoctoral fellows, and students from across the country to Dharamshala for three days of scientific discussions and collaboration.
+*To be announced.*
+
+---
+
+We look forward to welcoming researchers, postdoctoral fellows, and students from across the country to Dharamshala for three days of scientific discussions, collaboration, and the exchange of new ideas in CGM–IGM science.
