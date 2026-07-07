@@ -10,11 +10,9 @@ location: "Dharamshala, India"
 
 Organised by: [IUCAA](https://www.iucaa.in/en/), [Central University of Himachal Pradesh](https://www.cuhimachal.ac.in/index.php/SPMS/department/dept_physics_astronomical)
 
-[Click Here to View the Conference Poster](#)
+[Click Here to View the Conference Poster](https://chandrastarclub.github.io/files/Bridging Observations and Simulations Poster-2.pdf)
 
 [Click Here to Register](https://forms.gle/A89ZAboeu3tL7kM29)
-
-[Click Here to View the Conference Schedule](#)
 
 ---
 
