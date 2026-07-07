@@ -108,17 +108,17 @@ https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6
 | **Prof. Rajeshwari Dutta** | IUCAA | Member | rajeshwari.dutta@iucaa.in |
 | **Prof. Hum Chand** | CUHP | Member | humchand@hpcu.ac.in |
 
-# Local Organising Committee
+## Local Organising Committee
 
-| S.No. | Name | Committee | Email |
-|------|------|-----------|-------|
-| 4 | Mr. Madhu Sudan | LOC Member | madhu92265.sudan@gmail.com |
-| 5 | Mr. Paryag Sharma | LOC Member | panditparyag@gmail.com |
-| 7 | Mr. Anshul Kumar Sharma | LOC Member | aksharma120102@gmail.com |
-| 8 | Ms. Priya Sharma | LOC Member | Priya.insights02@gmail.com |
-| 9 | Mr. Vishal Thakur | LOC Member | thakurvishal20610@gmail.com |
-| 10 | Mr. Sachin Pandey | LOC Member | 25mph010@nith.ac.in |
-| 11 | Mr. Saikhom Johnson | LOC Member | saikhomjohnson007@gmail.com |
+| Name | Role | Email |
+|------|------|-------|
+| **Mr. Madhu Sudan** | LOC Member | madhu92265.sudan@gmail.com |
+| **Mr. Paryag Sharma** | LOC Member | panditparyag@gmail.com |
+| **Mr. Anshul Kumar Sharma** | LOC Member | aksharma120102@gmail.com |
+| **Ms. Priya Sharma** | LOC Member | priya.insights02@gmail.com |
+| **Mr. Vishal Thakur** | LOC Member | thakurvishal20610@gmail.com |
+| **Mr. Sachin Pandey** | LOC Member | 25mph010@nith.ac.in |
+| **Mr. Saikhom Johnson** | LOC Member | saikhomjohnson007@gmail.com |
 ---
 
 # Invited Speakers
