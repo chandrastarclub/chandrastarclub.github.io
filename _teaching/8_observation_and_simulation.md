@@ -120,10 +120,48 @@ https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6
 
 ---
 
-## Invited Speakers
+## Participants
 
-*To be announced.*
+| Name | Affiliation |
+| :--- | :--- |
+| **Prof. Raghunathan Srianand** | Inter-University Centre for Astronomy and Astrophysics (IUCAA) |
+| **Prof. Hum Chand** | Central University of Himachal Pradesh |
+| **Prof. Vikram Kisan Khaire** | Indian Institute of Technology Tirupati |
+| **Prof. Sowgat Muzahid** | Inter-University Centre for Astronomy and Astrophysics (IUCAA) |
+| **Prof. Rajeshwari Dutta** | Inter-University Centre for Astronomy and Astrophysics (IUCAA) |
+| **Prof. Prakash Gaikwad** | Indian Institute of Technology Indore |
+| **Prof. Nishikanta Khandai** | National Institute of Science Education and Research (NISER) |
+| **Prof. Pankaj Kushwaha** | Indian Institute of Science Education and Research (IISER) Mohali |
+| **Dr. Abhijeet Anand** | Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune |
+| **Dr. Ritish Kumar** | Inter-University Centre for Astronomy and Astrophysics (IUCAA) |
+| **Dr. Anirban Chakraborty** | Inter-University Centre for Astronomy and Astrophysics (IUCAA) |
+| **Mr. Madhu Sudan** | Central University of Himachal Pradesh |
+| **Mr. Paryag Sharma** | Central University of Himachal Pradesh |
+| **Mr. Kartik Kambhampati** | Indian Institute of Technology Indore |
+| **Ms. Reena Chaudhary** | Indian Institute of Astrophysics, Bengaluru |
+| **Mr. Subhajit Pal** | Jadavpur University |
+| **Mr. Dharmender** | Central University of Himachal Pradesh |
+| **Ms. Priya Sharma** | Central University of Himachal Pradesh |
+| **Mr. Sumukha R Bharadwaj** | Indian Institute of Space Science and Technology |
+| **Mr. Suvajit Sardar** | Indian Institute of Space Science and Technology |
+| **Mr. Meemik Roy** | Indian Institute of Science, Bengaluru |
+| **Mr. Abhiram K** | Indian Institute of Science |
+| **Mr. Tamal Mukherjee** | Macquarie University |
+| **Mr. Jashanpreet Singh Dingra** | Guru Dev University, Amritsar |
+| **Mr. Atulit Srivastava** | Universidad Autónoma de Madrid |
+| **Mr. Samir Niranjan Sethi** | Indian Institute of Technology Indore |
+| **Ms. Anukalpa Bhaumik** | Indian Institute of Astrophysics |
+| **Mr. Pratik Chandra Nath** | National Institute of Science Education and Research (NISER) |
+| **Mr. Himanshu Khirswal** | Hemwati Nandan Bahuguna Garhwal University |
+| **Ms. Khushi Mehta** | Central University of Himachal Pradesh |
+| **Mr. Anshul Kumar Sharma** | Central University of Himachal Pradesh |
+| **Mr. Saikhom Johnson Singh** | Manipur University |
+| **Mr. Zahid Mamud** | The Assam Royal Global University |
+| **Mr. Arnab Biswas** | National Institute of Science Education and Research (NISER), Bhubaneswar |
+| **Ms. Gayatri P** | National Institute of Science Education and Research (NISER), Bhubaneswar |
+| **Mr. Aritra Sanyal** | Jadavpur University |
 
+---
 ---
 
 We look forward to welcoming researchers, postdoctoral fellows, and students from across the country to Dharamshala for three days of scientific discussions, collaboration, and the exchange of new ideas in CGM–IGM science.
