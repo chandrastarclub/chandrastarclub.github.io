@@ -14,6 +14,7 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [Central University of Himachal
 
 [Click Here to Register](https://forms.gle/A89ZAboeu3tL7kM29)
 
+[Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/program_schedule.pdf)
 ---
 
 # About the Conference
@@ -148,7 +149,6 @@ https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6
 | **Mr. Abhiram K** | Indian Institute of Science |
 | **Mr. Tamal Mukherjee** | Macquarie University |
 | **Mr. Jashanpreet Singh Dingra** | Guru Dev University, Amritsar |
-| **Mr. Atulit Srivastava** | Universidad Autónoma de Madrid |
 | **Mr. Samir Niranjan Sethi** | Indian Institute of Technology Indore |
 | **Ms. Anukalpa Bhaumik** | Indian Institute of Astrophysics |
 | **Mr. Pratik Chandra Nath** | National Institute of Science Education and Research (NISER) |
@@ -159,7 +159,6 @@ https://maps.app.goo.gl/Y8TLwJDbiRtn1JQu6
 | **Mr. Zahid Mamud** | The Assam Royal Global University |
 | **Mr. Arnab Biswas** | National Institute of Science Education and Research (NISER), Bhubaneswar |
 | **Ms. Gayatri P** | National Institute of Science Education and Research (NISER), Bhubaneswar |
-| **Mr. Aritra Sanyal** | Jadavpur University |
 
 ---
 ---
