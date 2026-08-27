@@ -8,6 +8,18 @@ author_profile: true
 
 <hr>
 
+<h2>Some Glimpse of Space Day Quiz 2026</h2>
+<div class="gallery">
+  <img src="/images/space_day_quiz_2/1.jpeg" onclick="openModal(this)">
+  <img src="/images/space_day_quiz_2/4.jpeg" onclick="openModal(this)">
+  <img src="/images/space_day_quiz_2/3.jpeg" onclick="openModal(this)">
+  <img src="/images/space_day_quiz_2/2.jpeg" onclick="openModal(this)">
+</div>
+
+<hr>
+
+<hr>
+
 <h2>Some Glimpse of Observing the Wonders of Nature: From Camera Obscura to the 4-m International Liquid Mirror Telescope (ILMT)</h2>
 <div class="gallery">
   <img src="/images/lensing_school/1.jpeg" onclick="openModal(this)">

@@ -15,6 +15,8 @@ Organised by: [IUCAA](https://www.iucaa.in/en/), [Central University of Himachal
 [Click Here to Register](https://forms.gle/A89ZAboeu3tL7kM29)
 
 [Click Here to View The Conference Schedule](https://chandrastarclub.github.io/files/program_schedule.pdf)
+
+
 ---
 
 # About the Conference
