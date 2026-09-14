@@ -66,6 +66,8 @@ In this context the Department of Physics and Astronomical Science of CIHP  prop
 1. Ms. Shikshita Naryal  (Member, Email: shikshita5naryal@gmail.com)
 1. Ms. Pooja Dhadwal  (Member, Email: poojadhadwal01@gmail.com)
 1. Ms. Khushi Rai  (Member, Email: rai895642@gmail.com)
+1. Ms. Annu Kumari  (Member, Email: annukumari1309@gmail.com)
+
 
 
 
