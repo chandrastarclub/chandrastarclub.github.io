@@ -6,6 +6,20 @@ author_profile: true
 
 ---
 
+
+<hr>
+
+<h2>Some Glimpse of Bridging Observations and Simulations in CGM–IGM Science 2026</h2>
+<div class="gallery">
+  <img src="/images/cgm_conf/1.jpeg" onclick="openModal(this)">
+  <img src="/images/cgm_conf/4.jpeg" onclick="openModal(this)">
+  <img src="/images/cgm_conf/3.jpeg" onclick="openModal(this)">
+  <img src="/images/cgm_conf/2.jpeg" onclick="openModal(this)">
+</div>
+
+<hr>
+
+
 <hr>
 
 <h2>Some Glimpse of Space Day Quiz 2026</h2>
