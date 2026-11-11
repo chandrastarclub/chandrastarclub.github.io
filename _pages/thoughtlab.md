@@ -6,13 +6,6 @@ author_profile: true
 
 ---
 
----
-layout: archive
-title: "Thought Lab"
-permalink: /thoughtlab/
-author_profile: false
----
-
 <style>
 .tl-page {max-width:1100px;margin:20px auto 60px;color:#263248;}
 .tl-hero {padding:55px 45px 45px;border-radius:16px;background:linear-gradient(125deg,#091426,#172c4d);color:#fff;position:relative;overflow:hidden;}
