@@ -21,8 +21,11 @@ main:
 
   #- title: "Guide"
   #  url: /markdown/
-    
+
   - title: "Gallery"
     url: /gallery/
   #- title: "Space Day 2024"
   #  url: /space_day/
+
+  - title: "Thought Lab"
+    url: /thoughtlab/
